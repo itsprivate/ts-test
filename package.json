@@ -1,0 +1,38 @@
+{
+  "name": "actionsflow-workflow-default",
+  "private": true,
+  "description": "A simple workflow to get up and build quickly with Actionsflow",
+  "version": "1.0.0",
+  "author": "Owen Young <theowenyoung@gmail.com>",
+  "devDependencies": {
+    "@vercel/ncc": "^0.25.1",
+    "actionsflow": "^1.7.1",
+    "prettier": "^2.2.0"
+  },
+  "keywords": [
+    "actionsflow",
+    "workflow"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "build": "actionsflow build",
+    "start": "actionsflow start --verbose -- -b",
+    "watch": "actionsflow start -w --verbose --interval 1 -- -b",
+    "act": "act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1",
+    "clean": "actionsflow clean",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:action": "ncc build .github/actions/translate/src/index.js -o .github/actions/translate/dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/actionsflow/actionsflow-workflow-default"
+  },
+  "bugs": {
+    "url": "https://github.com/actionsflow/actionsflow-workflow-default/issues"
+  },
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "dotenv": "^8.2.0",
+    "tencentcloud-sdk-nodejs": "^4.0.16"
+  }
+}
