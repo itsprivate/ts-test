@@ -1,11 +1,11 @@
 on:
   reddit:
-    # url: https://www.reddit.com/r/stocks/top/
-    url: https://www.reddit.com/r/all/top/
+    url: https://www.reddit.com/r/stocks/new/
+    # url: https://www.reddit.com/r/all/top/
     source: json
     config:
       # limit: 2
-      # force: true
+      force: true
       outputsMode: combine
       exportOutputs: true
       filterScript: |
@@ -19,6 +19,12 @@ jobs:
     name: save to json
     runs-on: ubuntu-latest
     steps:
+      - name: Format reddit JSON
+        env:
+          OUTPUTS_PATH: ${{ on.reddit.outputs.path }}
+        uses: ./.github/actions/format
+        with:
+          function: reddit
       - name: Create Reddit JSON
         uses: actions/github-script@v2
         env:
