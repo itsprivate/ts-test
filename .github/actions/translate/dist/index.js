@@ -8,7 +8,8 @@ module.exports =
 const core = __webpack_require__(42186);
 const tencentcloud = __webpack_require__(15144);
 const path = __webpack_require__(85622);
-const fs = __webpack_require__(35747).promises;
+const fsPure = __webpack_require__(35747);
+const fs = fsPure.promises;
 const githubWorkspace =
   process.env.GITHUB_WORKSPACE || path.resolve(__dirname, "../../../../");
 async function main() {
@@ -53,6 +54,10 @@ async function main() {
         const todoTranslatedFile = todoTranslatedFiles[k];
         const redditLocaleTitleFilePath = `i18n/i18next/${locale}/${todoTranslatedFile.ns}.json`;
         const finalFile = `${githubWorkspace}/${redditLocaleTitleFilePath}`;
+        const ifLocaleFileExist = fsPure.existsSync(finalFile);
+        if (!ifLocaleFileExist) {
+          await fs.writeFile(finalFile, "{}");
+        }
         const localeTitleJSON = await fs.readFile(finalFile, "utf8");
         const localeTitle = JSON.parse(localeTitleJSON);
         // check
