@@ -43,8 +43,8 @@ async function main() {
     ];
     for (let j = 0; j < locales.length; j++) {
       const locale = locales[j];
-      for (let k = 0; k < todoTranslatedFiles.length; k++) {
-        const todoTranslatedFile = todoTranslatedFiles[k];
+      for (let h = 0; h < todoTranslatedFiles.length; h++) {
+        const todoTranslatedFile = todoTranslatedFiles[h];
         const redditLocaleTitleFilePath = `i18n/i18next/${locale}/${todoTranslatedFile.ns}.json`;
         const finalFile = `${githubWorkspace}/${redditLocaleTitleFilePath}`;
         const ifLocaleFileExist = fsPure.existsSync(finalFile);
@@ -58,10 +58,11 @@ async function main() {
         let isChanged = false;
         for (let k = 0; k < enKeys.length; k++) {
           const key = enKeys[k];
+          const value = todoTranslatedFile.sourceObj[key];
           if (!localeTitle[key]) {
             isChanged = true;
             const params = {
-              SourceText: key,
+              SourceText: value,
               Source: "en",
               Target: locale,
               ProjectId: 0,
