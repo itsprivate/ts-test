@@ -1,7 +1,8 @@
 const core = require("@actions/core");
 const tencentcloud = require("tencentcloud-sdk-nodejs");
 const path = require("path");
-const fs = require("fs").promises;
+const fsPure = require("fs");
+const fs = fsPure.promises;
 const githubWorkspace =
   process.env.GITHUB_WORKSPACE || path.resolve(__dirname, "../../../../");
 async function main() {
@@ -46,6 +47,10 @@ async function main() {
         const todoTranslatedFile = todoTranslatedFiles[k];
         const redditLocaleTitleFilePath = `i18n/i18next/${locale}/${todoTranslatedFile.ns}.json`;
         const finalFile = `${githubWorkspace}/${redditLocaleTitleFilePath}`;
+        const ifLocaleFileExist = fsPure.existsSync(finalFile);
+        if (!ifLocaleFileExist) {
+          await fs.writeFile(finalFile, "{}");
+        }
         const localeTitleJSON = await fs.readFile(finalFile, "utf8");
         const localeTitle = JSON.parse(localeTitleJSON);
         // check
