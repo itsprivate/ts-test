@@ -1,14 +1,18 @@
 on:
   reddit:
-    url: https://www.reddit.com/r/stocks/new/
-    # url: https://www.reddit.com/r/all/top/
+    # url: https://www.reddit.com/r/stocks/top/
+    url: https://www.reddit.com/r/all/top/
     source: json
     config:
       # limit: 2
-      force: true
+      # force: true
       outputsMode: combine
       exportOutputs: true
       filterScript: |
+        if(item.score>75000){
+          return true
+        }
+      format: |
         delete item.all_awardings
         return item
     requestConfig:
@@ -35,8 +39,8 @@ jobs:
             await generateSources()
             return true
       - name: Create Pull Request
-        if: false
-        uses: peter-evans/create-pull-request@v3
+        if: env.ACTIONS_LOCAL!='true'
+        uses: theowenyoung/create-pull-request@master
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           commit-message: "chore: new item"

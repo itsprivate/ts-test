@@ -101,5 +101,13 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Airbnb is getting blasted in certain cities where affordable housing/limited\nsupply is a problem. Vancouver for example it is becoming extremely challenging\nto meet all the criteria, which permits short-term only if:\n\n * It's in your principal residence, in other words, where you live most of the\n  …",
-  "original_created_utc": 1607461036
+  "original_created_utc": 1607461036,
+  "i18nResource": {
+    "zh": {
+      "title": "Airbnb-注定要失败还是十年来首次公开募股(IPO)？"
+    },
+    "zh-Hant": {
+      "title": "Airbnb-注定要失敗還是十年來首次公開募股(IPO)"
+    }
+  }
 }
