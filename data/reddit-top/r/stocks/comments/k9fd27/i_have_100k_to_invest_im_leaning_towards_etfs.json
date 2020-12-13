@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "I've had some success with ETFs. They are fairly safe. Always seem to go up. Not\ngonna get a huge return but 100k invested in ETFs over the next 20 years could\nbe a nice little nest egg.\n\nConsidering the state of our economy and world today - What would be the best\nETFs to invest in to get a…",
-  "original_created_utc": 1607468784
+  "original_created_utc": 1607468784,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "I've had some success with ETFs. They are fairly safe. Always seem to go up. Not\ngonna get a huge return but 100k invested in ETFs over the next 20 years could\nbe a nice little nest egg.\n\nConsidering the state of our economy and world today - What would be the best\nETFs to invest in to get a…",
+      "title": "I have 100k to invest. I'm leaning towards ETF's. What are the best ETFs to invest for 2021?"
+    },
+    "zh": {
+      "the_new_excerpt": "我在ETF上取得了一些成功。它们是相当安全的。似乎总是在上升。不\n将获得巨大的回报，但在未来20年投资于ETF的10万美元可能会\n做一个不错的小储蓄金。\n\n考虑到我们今天的经济和世界状况-什么是最好的\n为获得…而投资的ETF",
+      "title": "我有10万美元可以投资。我倾向于ETF。2021年最值得投资的ETF是什么？"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "我在ETF上取得了一些成功。它们是相当安全的。似乎总是在上升。不\n将获得巨大的回报，但在未来20年投资于ETF的10万美元可能会\n做一个不错的小储蓄金。\n\n考虑到我们今天的经济和世界状况-什么是最好的\n为获得…而投资的ETF",
+      "title": "我有10万美元可以投资。我倾向于ETF。2021年最值得投资的ETF是什么？"
+    }
+  }
 }

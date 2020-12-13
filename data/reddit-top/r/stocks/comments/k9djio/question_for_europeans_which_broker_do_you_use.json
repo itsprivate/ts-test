@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "I'm trying to buy 250€ of specific US OTC stock but I have not been able to find\na broker that would let me invest this much without eating half of my investment\nas fees.\n\nI believe people might tell me to try Degiro and IBKR. Degiro is not available\nin Slovakia, at least I'm not aware of it and I…",
-  "original_created_utc": 1607463137
+  "original_created_utc": 1607463137,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "I'm trying to buy 250€ of specific US OTC stock but I have not been able to find\na broker that would let me invest this much without eating half of my investment\nas fees.\n\nI believe people might tell me to try Degiro and IBKR. Degiro is not available\nin Slovakia, at least I'm not aware of it and I…",
+      "title": "Question for Europeans: which broker do you use?"
+    },
+    "zh": {
+      "the_new_excerpt": "我想买250欧元的特定美国场外股票，但一直没能找到\n一个经纪人会让我投资这么多而不吃掉一半的投资\n作为费用。\n\n我相信人们可能会告诉我试试Degiro和IBKR。德吉罗不在\n在斯洛伐克，至少我没有意识到这一点，我…",
+      "title": "给欧洲人的问题：你使用哪家经纪公司？"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "我想买250欧元的特定美国场外股票，但一直没能找到\n一个经纪人会让我投资这么多而不吃掉一半的投资\n作为费用。\n\n我相信人们可能会告诉我试试Degiro和IBKR。德吉罗不在\n在斯洛伐克，至少我没有意识到这一点，我…",
+      "title": "给欧洲人的问题：你使用哪家经纪公司？"
+    }
+  }
 }

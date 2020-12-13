@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Just Saw this guys today. Seems an amazing company with an amazing CEO.\n\nThe stock jumped +-50% last two days (maybe thats why it Ringed my radar ).\nAnyone invested? Want to get in but im going to let it settle for now. Wanna\nhear your thoughts. Cheers",
-  "original_created_utc": 1607462709
+  "original_created_utc": 1607462709,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Just Saw this guys today. Seems an amazing company with an amazing CEO.\n\nThe stock jumped +-50% last two days (maybe thats why it Ringed my radar ).\nAnyone invested? Want to get in but im going to let it settle for now. Wanna\nhear your thoughts. Cheers",
+      "title": "EHANG - Autonomous Aerial Veichles"
+    },
+    "zh": {
+      "the_new_excerpt": "今天刚看到这些家伙。看起来是一家很棒的公司，有一位很棒的首席执行官。\n\n过去两天，该股上涨了+-50%(也许这就是我关注它的原因)。\n有人投资了吗？我想进去，但我现在就让它安顿下来。想要\n听听你的想法。干杯",
+      "title": "亿航--自主航标"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "今天刚看到这些家伙。看起来是一家很棒的公司，有一位很棒的首席执行官。\n\n过去两天，该股上涨了+-50%(也许这就是我关注它的原因)。\n有人投资了吗？我想进去，但我现在就让它安顿下来。想要\n听听你的想法。干杯",
+      "title": "亿航--自主航标"
+    }
+  }
 }

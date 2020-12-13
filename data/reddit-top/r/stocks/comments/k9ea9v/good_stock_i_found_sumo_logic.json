@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "SUMO logic is pretty underrated at the moment. They make money through cloud\ncomputing which is a pretty competitive industry, but I think they are good pick\nbased on who is running it, and they beat their earnings expectations. Right now\nthey are at a 3 billion market cap. They've increased their…",
-  "original_created_utc": 1607465403
+  "original_created_utc": 1607465403,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "SUMO logic is pretty underrated at the moment. They make money through cloud\ncomputing which is a pretty competitive industry, but I think they are good pick\nbased on who is running it, and they beat their earnings expectations. Right now\nthey are at a 3 billion market cap. They've increased their…",
+      "title": "Good stock I found SUMO Logic"
+    },
+    "zh": {
+      "the_new_excerpt": "相扑逻辑目前被低估了。他们通过云赚钱\n计算机，这是一个很不错的好胜行业，但我认为他们是很好的选择\n基于谁在经营它，而且他们的收益超出了他们的预期。现在就来\n他们的市值为30亿美元。他们已经提高了他们的…",
+      "title": "好股票，我找到了相扑逻辑"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "相扑逻辑目前被低估了。他们通过云赚钱\n计算机，这是一个很不错的好胜行业，但我认为他们是很好的选择\n基于谁在经营它，而且他们的收益超出了他们的预期。现在就来\n他们的市值为30亿美元。他们已经提高了他们的…",
+      "title": "好股票，我找到了相扑逻辑"
+    }
+  }
 }

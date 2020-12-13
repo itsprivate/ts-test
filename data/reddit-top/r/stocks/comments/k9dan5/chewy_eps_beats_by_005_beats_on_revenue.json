@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Chewy (NYSE:CHWY): Q3 GAAP EPS of -$0.08 beats by $0.05.\n\nRevenue of $1.78B (+44.7% Y/Y) beats by $50M.\n\nActive customers 17.788M vs. consensus of 17.387M; and Net sales per active\ncustomer of $363 vs. consensus of $369.\n\nAdj. EBITDA margin of 0.3% vs. consensus of -0.5%.\n\nShares +2.3%.",
-  "original_created_utc": 1607462366
+  "original_created_utc": 1607462366,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Chewy (NYSE:CHWY): Q3 GAAP EPS of -$0.08 beats by $0.05.\n\nRevenue of $1.78B (+44.7% Y/Y) beats by $50M.\n\nActive customers 17.788M vs. consensus of 17.387M; and Net sales per active\ncustomer of $363 vs. consensus of $369.\n\nAdj. EBITDA margin of 0.3% vs. consensus of -0.5%.\n\nShares +2.3%.",
+      "title": "Chewy EPS beats by $0.05, beats on revenue"
+    },
+    "zh": {
+      "the_new_excerpt": "Chewy(纽约证券交易所代码：CHWY)：第三季度GAAP每股收益为-0.08美元，比0.05美元高出0.05美元。\n\n营收为17.8亿美元(同比增长44.7%)，比去年同期高出5000万美元。\n\n活跃客户为1778.8万，而共识为1738.7万；每个活跃客户的净销售额\n客户363美元，而共识是369美元。\n\n调整EBITDA利润率为0.3%，而共识为-0.5%。\n\n股价上涨2.3%。",
+      "title": "咀嚼每股收益高出0.05美元，营收节节攀升"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "Chewy(纽约证券交易所代码：CHWY)：第三季度GAAP每股收益为-0.08美元，比0.05美元高出0.05美元。\n\n营收为17.8亿美元(同比增长44.7%)，比去年同期高出5000万美元。\n\n活跃客户为1778.8万，而共识为1738.7万；每个活跃客户的净销售额\n客户363美元，而共识是369美元。\n\n调整EBITDA利润率为0.3%，而共识为-0.5%。\n\n股价上涨2.3%。",
+      "title": "咀嚼每股收益高出0.05美元，营收节节攀升"
+    }
+  }
 }

@@ -36,6 +36,8 @@
     "dotenv": "^8.2.0",
     "ellipsize": "^0.1.0",
     "html-to-text": "^6.0.0",
+    "opencc": "^1.1.1",
+    "string.prototype.replaceall": "^1.0.4",
     "tencentcloud-sdk-nodejs": "^4.0.16"
   }
 }

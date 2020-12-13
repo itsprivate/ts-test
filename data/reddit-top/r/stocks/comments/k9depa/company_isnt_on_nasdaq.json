@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Hi\n\nI invested in a company that’s on a NEO exchange, but they are looking to be on\nNASDAQ in near future. I bought the stock in the Canadian market but there is\nalso the US version. What will happen when they get approved to be on NADAQ,\nwill these two merge? And what are the consequences of this?…",
-  "original_created_utc": 1607462722
+  "original_created_utc": 1607462722,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Hi\n\nI invested in a company that’s on a NEO exchange, but they are looking to be on\nNASDAQ in near future. I bought the stock in the Canadian market but there is\nalso the US version. What will happen when they get approved to be on NADAQ,\nwill these two merge? And what are the consequences of this?…",
+      "title": "Company isn’t on NASDAQ?"
+    },
+    "zh": {
+      "the_new_excerpt": "嗨\n\n我投资了一家在NEO交易所上市的公司，但他们希望\n纳斯达克在不久的将来。我是在加拿大市场买的股票，但是\n还有美国版的。当他们被批准上NADAQ后会发生什么，\n这两个会合并吗？这会带来什么后果呢？…",
+      "title": "公司不在纳斯达克吗？"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "嗨\n\n我投资了一家在NEO交易所上市的公司，但他们希望\n纳斯达克在不久的将来。我是在加拿大市场买的股票，但是\n还有美国版的。当他们被批准上NADAQ后会发生什么，\n这两个会合并吗？这会带来什么后果呢？…",
+      "title": "公司不在纳斯达克吗？"
+    }
+  }
 }

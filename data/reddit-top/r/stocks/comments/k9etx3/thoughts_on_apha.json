@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Looks like a decent company. They recently bought a beer company.\n\nHas anyone had any luck with them? Is it time to buy?\n\nI think it might go up quite a bit when Biden gets inaugurated.\n\nNasdaq says to buy, to you all agree?",
-  "original_created_utc": 1607467081
+  "original_created_utc": 1607467081,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Looks like a decent company. They recently bought a beer company.\n\nHas anyone had any luck with them? Is it time to buy?\n\nI think it might go up quite a bit when Biden gets inaugurated.\n\nNasdaq says to buy, to you all agree?",
+      "title": "Thoughts on APHA?"
+    },
+    "zh": {
+      "the_new_excerpt": "看起来是家不错的公司。他们最近收购了一家啤酒公司。\n\n有人找到他们了吗？现在是买东西的时候吗？\n\n我认为当拜登就职时，这一数字可能会上升相当多。\n\n纳斯达克说要买，你们都同意吗？",
+      "title": "对APHA有什么看法？"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "看起来是家不错的公司。他们最近收购了一家啤酒公司。\n\n有人找到他们了吗？现在是买东西的时候吗？\n\n我认为当拜登就职时，这一数字可能会上升相当多。\n\n纳斯达克说要买，你们都同意吗？",
+      "title": "对APHA有什么看法？"
+    }
+  }
 }

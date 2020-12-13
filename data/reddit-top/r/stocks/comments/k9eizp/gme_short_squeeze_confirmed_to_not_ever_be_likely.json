@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "https://news.yahoo.com/gamestop-reports-third-quarter-results-210600140.html\n\nThey are issuing more shares.\n\n> As part of its strategies to create optimal financial flexibility and expand\n> liquidity alternatives, the Company intends to file a shelf registration and\n> prospectus supplement with the…",
-  "original_created_utc": 1607466148
+  "original_created_utc": 1607466148,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "https://news.yahoo.com/gamestop-reports-third-quarter-results-210600140.html\n\nThey are issuing more shares.\n\n> As part of its strategies to create optimal financial flexibility and expand\n> liquidity alternatives, the Company intends to file a shelf registration and\n> prospectus supplement with the…",
+      "title": "GME Short Squeeze confirmed.... to not ever be likely to happen. They are indeed issuing more shares."
+    },
+    "zh": {
+      "the_new_excerpt": "https://news.yahoo.com/gamestop-reports-third-quarter-results-210600140.html\n\n他们正在发行更多的股票。\n\n>作为其创造最佳财务灵活性和扩展战略的一部分\n>流动资金替代方案，公司打算提交搁置登记并\n>招股说明书随…补充",
+      "title": "GME空头挤压确认.不太可能发生的事。他们确实在发行更多的股票。"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "https://news.yahoo.com/gamestop-reports-third-quarter-results-210600140.html\n\n他们正在发行更多的股票。\n\n>作为其创造最佳财务灵活性和扩展战略的一部分\n>流动资金替代方案，公司打算提交搁置登记并\n>招股说明书随…补充",
+      "title": "GME空头挤压确认.不太可能发生的事。他们确实在发行更多的股票。"
+    }
+  }
 }

@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Over the last couple years I've realized that the stocks I get simply wanting\nprofit are the ones I will sell more easily.. the stocks that I truly believe\nin, respect, and have a want for them to succeed are the ones that holding is\neasy. For me, it's been TSLA and MMED.",
-  "original_created_utc": 1607465874
+  "original_created_utc": 1607465874,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Over the last couple years I've realized that the stocks I get simply wanting\nprofit are the ones I will sell more easily.. the stocks that I truly believe\nin, respect, and have a want for them to succeed are the ones that holding is\neasy. For me, it's been TSLA and MMED.",
+      "title": "I've realized what works best for me in deciding long term holds"
+    },
+    "zh": {
+      "the_new_excerpt": "在过去的几年里，我意识到我得到的股票只是想要\n利润才是我更容易卖出去的。我真正相信的股票\n在，尊重，并想要他们取得成功是持有的是\n轻松点。对我来说，是TSLA和MMED。",
+      "title": "我已经意识到在决定长期持有时什么最适合我"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "在过去的几年里，我意识到我得到的股票只是想要\n利润才是我更容易卖出去的。我真正相信的股票\n在，尊重，并想要他们取得成功是持有的是\n轻松点。对我来说，是TSLA和MMED。",
+      "title": "我已经意识到在决定长期持有时什么最适合我"
+    }
+  }
 }

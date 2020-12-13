@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "From their website:\n\n\"Working relentlessly to develop innovative and differentiated therapeutics that\nimprove the lives of cancer patients.\"\n\n\"Curis is focused on the development and commercialization of innovative\ntherapeutics for the treatment of cancer.\"\n\nSeems they hit some breakthrough in…",
-  "original_created_utc": 1607464207
+  "original_created_utc": 1607464207,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "From their website:\n\n\"Working relentlessly to develop innovative and differentiated therapeutics that\nimprove the lives of cancer patients.\"\n\n\"Curis is focused on the development and commercialization of innovative\ntherapeutics for the treatment of cancer.\"\n\nSeems they hit some breakthrough in…",
+      "title": "Thoughts on Curis? Spiked up 350% today"
+    },
+    "zh": {
+      "the_new_excerpt": "来自他们的网站：\n\n“坚持不懈地努力开发创新和差异化的疗法，\n改善癌症患者的生活。“\n\nCURIS专注于创新产品的开发和商业化\n用于治疗癌症的治疗学。“\n\n似乎他们在…方面取得了一些突破",
+      "title": "对库里斯有什么看法？今天上涨了350%"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "来自他们的网站：\n\n“坚持不懈地努力开发创新和差异化的疗法，\n改善癌症患者的生活。“\n\nCURIS专注于创新产品的开发和商业化\n用于治疗癌症的治疗学。“\n\n似乎他们在…方面取得了一些突破",
+      "title": "对库里斯有什么看法？今天上涨了350%"
+    }
+  }
 }

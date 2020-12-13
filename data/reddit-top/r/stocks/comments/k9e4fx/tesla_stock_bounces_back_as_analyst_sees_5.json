@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Shares of Tesla Inc. bounced back into record territory Tuesday, erasing an\nearlier sharp slide, even as the electric vehicle market leader filed for the\nsale of up to $5 billion worth of stock.\n\nThe share sale plan comes after the stock shot up 12.8% over the past three days\nto Monday’s record…",
-  "original_created_utc": 1607464913
+  "original_created_utc": 1607464913,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Shares of Tesla Inc. bounced back into record territory Tuesday, erasing an\nearlier sharp slide, even as the electric vehicle market leader filed for the\nsale of up to $5 billion worth of stock.\n\nThe share sale plan comes after the stock shot up 12.8% over the past three days\nto Monday’s record…",
+      "title": "Tesla stock bounces back, as analyst sees $5 billion stock offering as a ‘clear positive’"
+    },
+    "zh": {
+      "the_new_excerpt": "特斯拉公司(Tesla Inc.)的股票。周二反弹至创纪录的区域，抹去了\n早些时候大幅下滑，尽管这家电动汽车市场领先者申请了\n出售价值高达50亿美元的股票。\n\n在此之前，该公司股价在过去三天里飙升了12.8%。\n周一的创纪录的…",
+      "title": "特斯拉股价反弹，分析师认为50亿美元的股票发行是一个“明显的积极因素”"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "特斯拉公司(Tesla Inc.)的股票。周二反弹至创纪录的区域，抹去了\n早些时候大幅下滑，尽管这家电动汽车市场领先者申请了\n出售价值高达50亿美元的股票。\n\n在此之前，该公司股价在过去三天里飙升了12.8%。\n周一的创纪录的…",
+      "title": "特斯拉股价反弹，分析师认为50亿美元的股票发行是一个“明显的积极因素”"
+    }
+  }
 }

@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "GameStop (NYSE:GME): Q3 Non-GAAP EPS of -$0.53 beats by $0.32; GAAP EPS of\n-$0.29 beats by $0.58.\n\n * Revenue of $1B (-30.6% Y/Y) misses by $90M.\n * Comps of -24.6% vs. consensus of -20.5%; and gross margin of 27.5% vs.\n   consensus of 29%.",
-  "original_created_utc": 1607461897
+  "original_created_utc": 1607461897,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "GameStop (NYSE:GME): Q3 Non-GAAP EPS of -$0.53 beats by $0.32; GAAP EPS of\n-$0.29 beats by $0.58.\n\n * Revenue of $1B (-30.6% Y/Y) misses by $90M.\n * Comps of -24.6% vs. consensus of -20.5%; and gross margin of 27.5% vs.\n   consensus of 29%.",
+      "title": "GameStop EPS beats by $0.32, misses on revenue"
+    },
+    "zh": {
+      "the_new_excerpt": "GameStop(纽约证券交易所代码：GME)：第三季度非GAAP每股收益为-0.53美元，比之前的0.32美元高出0.32美元；GAAP每股收益为\n-0.29美元胜过0.58美元。\n\n*10亿美元的收入(同比-30.6%)少了9000万美元。\n*COMPs为-24.6%，而共识为-20.5%；毛利率为27.5%，而不是\n共识是29%。",
+      "title": "GameStop EPS节拍0.32美元，营收失误"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "GameStop(纽约证券交易所代码：GME)：第三季度非GAAP每股收益为-0.53美元，比之前的0.32美元高出0.32美元；GAAP每股收益为\n-0.29美元胜过0.58美元。\n\n*10亿美元的收入(同比-30.6%)少了9000万美元。\n*COMPs为-24.6%，而共识为-20.5%；毛利率为27.5%，而不是\n共识是29%。",
+      "title": "GameStop EPS节拍0.32美元，营收失误"
+    }
+  }
 }

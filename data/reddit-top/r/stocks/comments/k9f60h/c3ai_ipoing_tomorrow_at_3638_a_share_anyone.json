@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "C3.AI [https://C3.AI] does somethign similar to what PLTR does, but they are not\nas good at it. I think this IPO will start to bring hype to the big-data\nanalysis companies and potentially be a catalyst for stocks like PLTR.\n\n\n\nAnyone playing this? Thoughts?",
-  "original_created_utc": 1607468163
+  "original_created_utc": 1607468163,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "C3.AI [https://C3.AI] does somethign similar to what PLTR does, but they are not\nas good at it. I think this IPO will start to bring hype to the big-data\nanalysis companies and potentially be a catalyst for stocks like PLTR.\n\n\n\nAnyone playing this? Thoughts?",
+      "title": "C3.AI IPO-ing tomorrow at $36-38 a share. Anyone playing this?"
+    },
+    "zh": {
+      "the_new_excerpt": "AI[https://C3.AI]做了一些与pltr相似的事情，但它们不是\n同样擅长这一点。我认为这次IPO将开始给大数据带来炒作\n分析公司，并有可能成为像PLTR这样的股票的催化剂。\n\n\n\n有人玩这个吗？有什么想法吗？",
+      "title": "C3.AI将于明日以每股36-38美元的价格进行IPO。有人玩这个吗？"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "AI[https://C3.AI]做了一些与pltr相似的事情，但它们不是\n同样擅长这一点。我认为这次IPO将开始给大数据带来炒作\n分析公司，并有可能成为像PLTR这样的股票的催化剂。\n\n\n\n有人玩这个吗？有什么想法吗？",
+      "title": "C3.AI将于明日以每股36-38美元的价格进行IPO。有人玩这个吗？"
+    }
+  }
 }

@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Does anyone have any insight on the company american manganese AMY.V ? They\nclaim they can recycle the majority of core materials from spent lithium lion\nbatteries. Is this worth investing in while they are only .20 cents a share ??",
-  "original_created_utc": 1607462394
+  "original_created_utc": 1607462394,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Does anyone have any insight on the company american manganese AMY.V ? They\nclaim they can recycle the majority of core materials from spent lithium lion\nbatteries. Is this worth investing in while they are only .20 cents a share ??",
+      "title": "American manganese"
+    },
+    "zh": {
+      "the_new_excerpt": "有没有人对美国锰AMY.V公司有什么见解？他们\n声称他们可以从废锂核中回收大部分核心材料\n电池。在他们每股只有0.2美分的情况下，这值得投资吗？",
+      "title": "美国锰"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "有没有人对美国锰AMY.V公司有什么见解？他们\n声称他们可以从废锂核中回收大部分核心材料\n电池。在他们每股只有0.2美分的情况下，这值得投资吗？",
+      "title": "美国锰"
+    }
+  }
 }

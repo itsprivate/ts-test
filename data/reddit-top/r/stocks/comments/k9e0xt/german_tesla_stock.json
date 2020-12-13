@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Guys i currently have german tesla stock because i dont like the forex changes\nfrom eu/usd however TESLA US is currently priced at $650 and eu stock at €516 =\n$624 i dont mind the value difference but since us stock will be joining s&p 500\nwill the eu stock rise as much as the us stock. I really…",
-  "original_created_utc": 1607464625
+  "original_created_utc": 1607464625,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Guys i currently have german tesla stock because i dont like the forex changes\nfrom eu/usd however TESLA US is currently priced at $650 and eu stock at €516 =\n$624 i dont mind the value difference but since us stock will be joining s&p 500\nwill the eu stock rise as much as the us stock. I really…",
+      "title": "German TESLA STOCK"
+    },
+    "zh": {
+      "the_new_excerpt": "伙计们，我现在有德国特斯拉股票，因为我不喜欢外汇变化\n然而，从欧盟/美元来看，特斯拉美国目前的定价为650美元，欧盟股票的价格为516欧元=\n624美元，我不介意价值差异，但由于美国股票将加入标准普尔500指数的行列。\n欧盟股票会像美国股票一样上涨吗？我真的…",
+      "title": "德国特斯拉股票"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "伙计们，我现在有德国特斯拉股票，因为我不喜欢外汇变化\n然而，从欧盟/美元来看，特斯拉美国目前的定价为650美元，欧盟股票的价格为516欧元=\n624美元，我不介意价值差异，但由于美国股票将加入标准普尔500指数的行列。\n欧盟股票会像美国股票一样上涨吗？我真的…",
+      "title": "德国特斯拉股票"
+    }
+  }
 }

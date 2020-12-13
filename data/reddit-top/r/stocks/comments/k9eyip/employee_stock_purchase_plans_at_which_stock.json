@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "I’m reading up about my company’s espp with net fidelity. The intro says that\nthe 15% discount will be applied at the lower price point of either the price\nduring offering period or purchase date.\n\nHowever this doesn’t answer my question. What is the actual cost for me? Is it\ngoing to be the share…",
-  "original_created_utc": 1607467495
+  "original_created_utc": 1607467495,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "I’m reading up about my company’s espp with net fidelity. The intro says that\nthe 15% discount will be applied at the lower price point of either the price\nduring offering period or purchase date.\n\nHowever this doesn’t answer my question. What is the actual cost for me? Is it\ngoing to be the share…",
+      "title": "Employee stock purchase plans, at which stock price is the stock actually purchased?"
+    },
+    "zh": {
+      "the_new_excerpt": "我正在阅读有关我公司的ESPP的资料，内容非常逼真。开场白说\n15%的折扣将适用于任何一种价格中的较低价位。\n在提供期间或购买日期。\n\n然而，这并没有回答我的问题。我的实际费用是多少？是吗\n将成为Share…",
+      "title": "员工购股计划，实际购入的股票价格是多少？"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "我正在阅读有关我公司的ESPP的资料，内容非常逼真。开场白说\n15%的折扣将适用于任何一种价格中的较低价位。\n在提供期间或购买日期。\n\n然而，这并没有回答我的问题。我的实际费用是多少？是吗\n将成为Share…",
+      "title": "员工购股计划，实际购入的股票价格是多少？"
+    }
+  }
 }

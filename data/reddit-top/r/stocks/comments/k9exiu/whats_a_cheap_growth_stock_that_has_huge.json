@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Hey all,\n\n\n\nI feel like I'm always late to hear about the new hot plays, i.e. NIO, PLTR,\nJMIA.\n\n\n\nAre their any on your watchlist or that you're invested in that you think could\npotentially have the same explosive growth, but are still trading relatively\ncheap?",
-  "original_created_utc": 1607467408
+  "original_created_utc": 1607467408,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Hey all,\n\n\n\nI feel like I'm always late to hear about the new hot plays, i.e. NIO, PLTR,\nJMIA.\n\n\n\nAre their any on your watchlist or that you're invested in that you think could\npotentially have the same explosive growth, but are still trading relatively\ncheap?",
+      "title": "What's a cheap growth stock that has huge potential but hasn't run up yet?"
+    },
+    "zh": {
+      "the_new_excerpt": "大家好，\n\n\n\n我觉得我总是迟到才听到新的热门剧目，比如NIO，PLTR，\nJMIA。\n\n\n\n他们有没有出现在你的观察名单上，或者你认为有可能\n可能有同样的爆炸性增长，但仍在相对地交易\n便宜吗？",
+      "title": "什么是具有巨大潜力但尚未上涨的廉价成长型股票？"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "大家好，\n\n\n\n我觉得我总是迟到才听到新的热门剧目，比如NIO，PLTR，\nJMIA。\n\n\n\n他们有没有出现在你的观察名单上，或者你认为有可能\n可能有同样的爆炸性增长，但仍在相对地交易\n便宜吗？",
+      "title": "什么是具有巨大潜力但尚未上涨的廉价成长型股票？"
+    }
+  }
 }

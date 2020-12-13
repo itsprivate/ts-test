@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Thanks for the add. Relatively new investor looking to get some opinions on\nMicrosoft. Down about 4% over the past 3 months and I’m tempted to get in and\ndiversify my portfolio. Currently in some ETFs and IRAs alongside smaller\nstocks. Thanks in advance.",
-  "original_created_utc": 1607467503
+  "original_created_utc": 1607467503,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Thanks for the add. Relatively new investor looking to get some opinions on\nMicrosoft. Down about 4% over the past 3 months and I’m tempted to get in and\ndiversify my portfolio. Currently in some ETFs and IRAs alongside smaller\nstocks. Thanks in advance.",
+      "title": "MSFT"
+    },
+    "zh": {
+      "the_new_excerpt": "谢谢你的补充。相对较新的投资者希望获得一些意见\n微软。在过去的3个月里下跌了大约4%，我很想进场\n分散我的投资组合。目前在一些ETF和IRA中与较小的\n股票。提前谢谢您。",
+      "title": "MSFT"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "谢谢你的补充。相对较新的投资者希望获得一些意见\n微软。在过去的3个月里下跌了大约4%，我很想进场\n分散我的投资组合。目前在一些ETF和IRA中与较小的\n股票。提前谢谢您。",
+      "title": "MSFT"
+    }
+  }
 }

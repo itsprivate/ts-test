@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Has the contract amount for operation warp speed for palantir (PLTR) been\nannounced yet?\n\nDoes anyone know?\n\nI feel the contract could be into many hundreds of millions and if announced the\nstock is going to skyrocket overnight!!!",
-  "original_created_utc": 1607467844
+  "original_created_utc": 1607467844,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "Has the contract amount for operation warp speed for palantir (PLTR) been\nannounced yet?\n\nDoes anyone know?\n\nI feel the contract could be into many hundreds of millions and if announced the\nstock is going to skyrocket overnight!!!",
+      "title": "Palantir operation warp speed contract value"
+    },
+    "zh": {
+      "the_new_excerpt": "Palantir的运行翘曲速度(PLTR)的合同金额已经确定了吗？\n宣布了吗？\n\n有人知道吗？\n\n我觉得这份合同可能会有数亿美元，如果宣布\n股票一夜之间就要暴涨了！",
+      "title": "Palantir操作经纱速度合同值"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "Palantir的运行翘曲速度(PLTR)的合同金额已经确定了吗？\n宣布了吗？\n\n有人知道吗？\n\n我觉得这份合同可能会有数亿美元，如果宣布\n股票一夜之间就要暴涨了！",
+      "title": "Palantir操作经纱速度合同值"
+    }
+  }
 }

@@ -102,5 +102,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "This one's been on a tear lately and it's showing no signs of slowing down, but\nwhere's the ceiling? QS has grown 350% in month, 30% today and 15% AH. At a $1.6\nBillion evaluation it has room to grow but just how far can a battery producer\ngo? Is their technology really revolutionary enough to…",
-  "original_created_utc": 1607468603
+  "original_created_utc": 1607468603,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "This one's been on a tear lately and it's showing no signs of slowing down, but\nwhere's the ceiling? QS has grown 350% in month, 30% today and 15% AH. At a $1.6\nBillion evaluation it has room to grow but just how far can a battery producer\ngo? Is their technology really revolutionary enough to…",
+      "title": "QS (QuantumScape); Where's the ceiling?"
+    },
+    "zh": {
+      "the_new_excerpt": "这张照片最近一直在热播，没有任何减速的迹象，但是\n天花板在哪里？QS在一个月内增长了350%，今天增长了30%，AH增长了15%。售价1.6澳元\n10亿美元的评估它还有增长的空间，但一个电池生产商到底能走多远\n去?他们的技术是否真的革命性到足以…",
+      "title": "QS(Quantumscape)；天花板在哪里？"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "这张照片最近一直在热播，没有任何减速的迹象，但是\n天花板在哪里？QS在一个月内增长了350%，今天增长了30%，AH增长了15%。售价1.6澳元\n10亿美元的评估它还有增长的空间，但一个电池生产商到底能走多远\n去?他们的技术是否真的革命性到足以…",
+      "title": "QS(Quantumscape)；天花板在哪里？"
+    }
+  }
 }

@@ -101,5 +101,19 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "I’m sitting on quite a bit of cash and my portfolio is currently BA, AAPL, NIO,\nGM, TSLA, RTX, PLTR, BABA, AMZN, CRWD, CRM, DIS.\n\nI will most likely add to my small positions but looking to get into reopen\nstocks that are down a lot like cruise lines, airlines or other industries like\nthat.\n\nWhich…",
-  "original_created_utc": 1607463510
+  "original_created_utc": 1607463510,
+  "i18nResource": {
+    "en": {
+      "the_new_excerpt": "I’m sitting on quite a bit of cash and my portfolio is currently BA, AAPL, NIO,\nGM, TSLA, RTX, PLTR, BABA, AMZN, CRWD, CRM, DIS.\n\nI will most likely add to my small positions but looking to get into reopen\nstocks that are down a lot like cruise lines, airlines or other industries like\nthat.\n\nWhich…",
+      "title": "Best reopen/cyclical stocks?"
+    },
+    "zh": {
+      "the_new_excerpt": "我坐拥相当多的现金，我的投资组合目前是BA，AAPL，NIO，\nGM、TSLA、RTX、PLTR、BABA、AMZN、CRWD、CRM、DIS。\n\n我很可能会增加我的小头寸，但希望能重新开张\n下跌幅度很大的股票，如邮轮公司、航空公司或其他行业，如\n那。\n\n哪个…",
+      "title": "最好的重新开盘/周期性股票？"
+    },
+    "zh-Hant": {
+      "the_new_excerpt": "我坐拥相当多的现金，我的投资组合目前是BA，AAPL，NIO，\nGM、TSLA、RTX、PLTR、BABA、AMZN、CRWD、CRM、DIS。\n\n我很可能会增加我的小头寸，但希望能重新开张\n下跌幅度很大的股票，如邮轮公司、航空公司或其他行业，如\n那。\n\n哪个…",
+      "title": "最好的重新开盘/周期性股票？"
+    }
+  }
 }
