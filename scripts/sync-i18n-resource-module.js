@@ -39,15 +39,26 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
         const sourceAbsolutePath = resolve(CWD, sourcePath);
         const sourceJson = await readFile(sourceAbsolutePath, "utf8");
         const sourceObj = JSON.parse(sourceJson);
+        let isChanged = false;
         if (!sourceObj.i18nResource) {
           sourceObj.i18nResource = {};
+          isChanged = true;
         }
         if (!sourceObj.i18nResource[locale]) {
           sourceObj.i18nResource[locale] = {};
+          isChanged = true;
         }
-        sourceObj.i18nResource[locale][field] = text;
-        console.log(`Write ${sourceAbsolutePath}`);
-        await writeFile(sourceAbsolutePath, JSON.stringify(sourceObj, null, 2));
+        if (sourceObj.i18nResource[locale][field] === undefined) {
+          sourceObj.i18nResource[locale][field] = text;
+          isChanged = true;
+        }
+        if (isChanged) {
+          console.log(`Write ${sourceAbsolutePath}`);
+          await writeFile(
+            sourceAbsolutePath,
+            JSON.stringify(sourceObj, null, 2)
+          );
+        }
       }
     }
   }
