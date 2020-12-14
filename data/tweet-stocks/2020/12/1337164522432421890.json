@@ -179,5 +179,13 @@
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en"
+  "lang": "en",
+  "i18nResource": {
+    "zh": {
+      "full_text": "全球增长率..。https://t.co/guFC9Qrv7E"
+    },
+    "zh-Hant": {
+      "full_text": "全球增長率..。https://t.co/guFC9Qrv7E"
+    }
+  }
 }

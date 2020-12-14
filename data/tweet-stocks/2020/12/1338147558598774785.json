@@ -190,5 +190,13 @@
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en"
+  "lang": "en",
+  "i18nResource": {
+    "zh": {
+      "full_text": "总回报，过去20年.\n美国股市：+324%\n长期美国债券：+350%\n\n图表通过@ycharts https://t.co/0d81cJiRDR"
+    },
+    "zh-Hant": {
+      "full_text": "總回報，過去20年.\n美國股市：+324%\n長期美國債券：+350%\n\n圖表通過@ycharts https://t.co/0d81cJiRDR"
+    }
+  }
 }

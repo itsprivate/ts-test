@@ -190,5 +190,13 @@
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en"
+  "lang": "en",
+  "i18nResource": {
+    "zh": {
+      "full_text": "美国抵押贷款利率保持在历史最低水平。\n-30年：2.71%。\n--15年期：2.26%。\n\n图表通过@ycharts https://t.co/8Ffz0G9Abq"
+    },
+    "zh-Hant": {
+      "full_text": "美國抵押貸款利率保持在歷史最低水平。\n-30年：2.71%。\n--15年期：2.26%。\n\n圖表通過@ycharts https://t.co/8Ffz0G9Abq"
+    }
+  }
 }

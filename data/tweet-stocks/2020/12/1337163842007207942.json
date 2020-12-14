@@ -179,5 +179,13 @@
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en"
+  "lang": "en",
+  "i18nResource": {
+    "zh": {
+      "full_text": "全球通货膨胀率。https://t.co/nQg39JbUBB"
+    },
+    "zh-Hant": {
+      "full_text": "全球通貨膨脹率。https://t.co/nQg39JbUBB"
+    }
+  }
 }

@@ -422,5 +422,13 @@
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en"
+  "lang": "en",
+  "i18nResource": {
+    "zh": {
+      "full_text": "rt@charliebilello：新帖子：\n\n周五5-图表.\n\nhttps://t.co/ap2gnV6jch\n\n图表通过@ycharts https://t.co/zrexXg5NHS"
+    },
+    "zh-Hant": {
+      "full_text": "rt@charliebilello：新帖子：\n\n週五5-圖表.\n\nhttps://t.co/ap2gnV6jch\n\n圖表通過@ycharts https://t.co/zrexXg5NHS"
+    }
+  }
 }

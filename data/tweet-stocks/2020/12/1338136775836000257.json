@@ -189,5 +189,13 @@
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en"
+  "lang": "en",
+  "i18nResource": {
+    "zh": {
+      "full_text": "新帖子：\n\n美国目前的Covid状态.\n\nhttps://t.co/mDmD1FNo9u https://t.co/3GpPn0iOiY"
+    },
+    "zh-Hant": {
+      "full_text": "新帖子：\n\n美國目前的Covid狀態.\n\nhttps://t.co/mDmD1FNo9u https://t.co/3GpPn0iOiY"
+    }
+  }
 }
