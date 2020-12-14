@@ -1,15 +1,17 @@
 on:
   reddit:
-    url: https://www.reddit.com/r/stocks/top/
+    url:
+      - https://www.reddit.com/r/stocks/top/?t=week
+      - https://www.reddit.com/r/investing/top/?t=week
     # url: https://www.reddit.com/r/all/top/
     source: json
     config:
-      limit: 2
-      force: true
+      # limit: 2
+      # force: true
       outputsMode: combine
       exportOutputs: true
       filterScript: |
-        if(item.score>10){
+        if(item.score>100){
           return true
         }
       format: |
