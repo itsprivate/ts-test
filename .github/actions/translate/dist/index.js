@@ -6,7 +6,7 @@ module.exports =
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse("{\"TIL\":\"[今天我学到了]\",\"[OC]\":\"[原创]\",\"(OC)\":\"(原创)\"}");
+module.exports = JSON.parse("{\"TIL\":\"[今天我学到了]\",\"[OC]\":\"[原创]\",\"(OC)\":\"(原创)\",\"IRL\":\"现实中的我\"}");
 
 /***/ }),
 
@@ -53,7 +53,6 @@ async function main() {
     for (let j = 0; j < locales.length; j++) {
       const locale = locales[j];
       const targetFilePath = `i18n/post-resource/${locale}/${filename}.json`;
-      console.log("targetFilePath", filename, targetFilePath);
 
       const targetAbsoluteFilePath = path.resolve(
         githubWorkspace,
@@ -72,7 +71,7 @@ async function main() {
       let isChanged = false;
       for (let k = 0; k < enKeys.length; k++) {
         const key = enKeys[k];
-        const value = targetObj[key];
+        const value = enSourceObj[key];
         if (value && targetObj[key] === undefined) {
           isChanged = true;
           const data = await translate({

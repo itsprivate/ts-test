@@ -1,8 +1,10 @@
 require("dotenv").config();
 
-const translate = require("../.github/actions/translate/src/translate");
+const translate = require("../.github/actions/translate/src/index");
 
-async function main() {}
+async function main() {
+  // await translate();
+}
 
 main().catch((e) => {
   console.log("e", e);

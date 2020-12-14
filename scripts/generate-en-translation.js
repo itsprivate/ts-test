@@ -16,16 +16,21 @@ async function main() {
     const utcYear = createdAt.getUTCFullYear();
     const utcMonth = createdAt.getUTCMonth() + 1;
     const addZeroUtcMonth = utcMonth < 10 ? `0${utcMonth}` : `${utcMonth}`;
-    const titleLocaleFileName = `reddit_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
-    const excerptLocaleFileName = `reddit_--_the_new_excerpt_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+    const titleLocaleFileName = `reddit_--_reddit-top_--_title_--_${utcYear}_--_${addZeroUtcMonth}.json`;
+    const excerptLocaleFileName = `reddit_--_reddit-top_--_the_new_excerpt_--_${utcYear}_--_${addZeroUtcMonth}.json`;
     if (!allLocaleFiles[titleLocaleFileName]) {
       allLocaleFiles[titleLocaleFileName] = {};
     }
-    allLocaleFiles[titleLocaleFileName][jsonFiles[i]] = json.title;
+    if (json.title) {
+      allLocaleFiles[titleLocaleFileName][jsonFiles[i]] = json.title;
+    }
     if (!allLocaleFiles[excerptLocaleFileName]) {
       allLocaleFiles[excerptLocaleFileName] = {};
     }
-    allLocaleFiles[excerptLocaleFileName][jsonFiles[i]] = json.the_new_excerpt;
+    if (json.the_new_excerpt) {
+      allLocaleFiles[excerptLocaleFileName][jsonFiles[i]] =
+        json.the_new_excerpt;
+    }
   }
 
   const keys = Object.keys(allLocaleFiles);
