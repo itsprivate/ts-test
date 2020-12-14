@@ -103,5 +103,13 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "Joined the group in April hoping to take advantage of pandemic. I’ve learned so\nmuch and had countless companies brought up that I never would’ve considered\notherwise. I now officially have 2 that I’ve doubled up on - CLSK (516%) and\nEVRI (102%) and YTD gains of 67% all thanks to this group! Only…",
-  "original_created_utc": 1607689131
+  "original_created_utc": 1607689131,
+  "i18nResource": {
+    "zh": {
+      "2020": "谢谢大家！"
+    },
+    "zh-Hant": {
+      "2020": "謝謝大家！"
+    }
+  }
 }

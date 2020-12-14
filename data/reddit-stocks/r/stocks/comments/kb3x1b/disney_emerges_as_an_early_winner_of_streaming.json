@@ -101,5 +101,13 @@
   "media": null,
   "is_video": false,
   "the_new_excerpt": "https://www.cnbc.com/2020/12/11/after-showing-massive-growth-disney-hikes-5-year-subscriber-goal-.html\n\nDisney hiked its five-year streaming subscriber estimates on Thursday, expecting\nDisney+ to continue to post remarkable growth.\n\nThe company now forecasts 230 million to 260 million subscribers to…",
-  "original_created_utc": 1607697388
+  "original_created_utc": 1607697388,
+  "i18nResource": {
+    "zh": {
+      "2020": "迪士尼+成为流媒体战争的早期赢家，预计到2024年订户将达到2.6亿"
+    },
+    "zh-Hant": {
+      "2020": "迪士尼+成爲流媒體戰爭的早期贏家，預計到2024年訂戶將達到2.6億"
+    }
+  }
 }
