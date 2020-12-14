@@ -185,5 +185,13 @@
   "favorite_count": 229,
   "favorited": false,
   "retweeted": false,
-  "lang": "en"
+  "lang": "en",
+  "i18nResource": {
+    "zh": {
+      "full_text": "2020年IPO：首日与发行价.\nCureVac$CVAC：+249%\nBigCommerce$BIGC：+201%\n伯克利$BLI：+198%\nSEER$SEER：+197%\nAgora$API：+152%\n柠檬水$LMND：+139%\nNcino$NCNO：+133%\nVroom$Vrm：+118%\nAirbnb$ABNB：+112%\n雪花$雪花：+112%\nKE$BEKE：+87%\nDoorDash$Dash：+86%"
+    },
+    "zh-Hant": {
+      "full_text": "2020年IPO：首日與發行價.\nCureVac$CVAC：+249%\nBigCommerce$BIGC：+201%\n伯克利$BLI：+198%\nSEER$SEER：+197%\nAgora$API：+152%\n檸檬水$LMND：+139%\nNcino$NCNO：+133%\nVroom$Vrm：+118%\nAirbnb$ABNB：+112%\n雪花$雪花：+112%\nKE$BEKE：+87%\nDoorDash$Dash：+86%"
+    }
+  }
 }

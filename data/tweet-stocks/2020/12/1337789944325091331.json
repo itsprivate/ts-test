@@ -189,5 +189,13 @@
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en"
+  "lang": "en",
+  "i18nResource": {
+    "zh": {
+      "full_text": "新帖子：\n\n大流行+衰退=多重扩张？\n\nhttps://t.co/MhXYSjUZXK https://t.co/o4F3D7VfMN"
+    },
+    "zh-Hant": {
+      "full_text": "新帖子：\n\n大流行+衰退=多重擴張？\n\nhttps://t.co/MhXYSjUZXK https://t.co/o4F3D7VfMN"
+    }
+  }
 }

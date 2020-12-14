@@ -187,5 +187,13 @@
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en"
+  "lang": "en",
+  "i18nResource": {
+    "zh": {
+      "full_text": "随着98%的公司公布财报，标准普尔500指数第三季度GAAP收益比去年下降了2.9%，标准普尔500指数成份股公司的销售额下降了2.3%。$spx https://t.co/5SZ11ghYdv"
+    },
+    "zh-Hant": {
+      "full_text": "隨着98%的公司公佈財報，標準普爾500指數第三季度GAAP收益比去年下降了2.9%，標準普爾500指數成份股公司的銷售額下降了2.3%。$spx https://t.co/5SZ11ghYdv"
+    }
+  }
 }
