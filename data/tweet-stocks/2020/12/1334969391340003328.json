@@ -1,98 +1,21 @@
 {
-  "created_at": "Thu Dec 10 21:09:03 +0000 2020",
-  "id": 1337142306089013200,
-  "id_str": "1337142306089013249",
-  "full_text": "2020 IPOs: 1st Day vs. Offering Price...\nCureVac $CVAC: +249%\nBigCommerce $BIGC: +201%\nBerkley $BLI: +198%\nSeer $SEER: +197%\nAgora $API: +152%\nLemonade $LMND: +139%\nNcino $NCNO: +133%\nVroom $VRM: +118%\nAirbnb $ABNB: +112%\nSnowflake $SNOW: +112%\nKE $BEKE: +87%\nDoorDash $DASH: +86%",
+  "created_at": "Fri Dec 04 21:14:40 +0000 2020",
+  "id": 1334969391340003300,
+  "id_str": "1334969391340003328",
+  "full_text": "Snowflake closed today at a $107 billion market cap and a price to sales ratio of 219x.\n\nHas there ever been a company with a market cap this large trading at this high of a sales multiple?\n\n$SNOW",
   "truncated": false,
   "display_text_range": [
     0,
-    280
+    196
   ],
   "entities": {
     "hashtags": [],
     "symbols": [
       {
-        "text": "CVAC",
-        "indices": [
-          49,
-          54
-        ]
-      },
-      {
-        "text": "BIGC",
-        "indices": [
-          74,
-          79
-        ]
-      },
-      {
-        "text": "BLI",
-        "indices": [
-          95,
-          99
-        ]
-      },
-      {
-        "text": "SEER",
-        "indices": [
-          112,
-          117
-        ]
-      },
-      {
-        "text": "API",
-        "indices": [
-          131,
-          135
-        ]
-      },
-      {
-        "text": "LMND",
-        "indices": [
-          152,
-          157
-        ]
-      },
-      {
-        "text": "NCNO",
-        "indices": [
-          171,
-          176
-        ]
-      },
-      {
-        "text": "VRM",
-        "indices": [
-          190,
-          194
-        ]
-      },
-      {
-        "text": "ABNB",
-        "indices": [
-          209,
-          214
-        ]
-      },
-      {
         "text": "SNOW",
         "indices": [
-          232,
-          237
-        ]
-      },
-      {
-        "text": "BEKE",
-        "indices": [
-          248,
-          253
-        ]
-      },
-      {
-        "text": "DASH",
-        "indices": [
-          269,
-          274
+          191,
+          196
         ]
       }
     ],
@@ -142,9 +65,9 @@
       }
     },
     "protected": false,
-    "followers_count": 200193,
+    "followers_count": 200211,
     "friends_count": 111,
-    "listed_count": 4514,
+    "listed_count": 4513,
     "created_at": "Wed May 08 14:41:31 +0000 2013",
     "favourites_count": 2470,
     "utc_offset": null,
@@ -181,17 +104,9 @@
   "place": null,
   "contributors": null,
   "is_quote_status": false,
-  "retweet_count": 74,
-  "favorite_count": 229,
+  "retweet_count": 176,
+  "favorite_count": 1133,
   "favorited": false,
   "retweeted": false,
-  "lang": "en",
-  "i18nResource": {
-    "zh": {
-      "full_text": "2020年IPO：首日与发行价.\nCureVac$CVAC：+249%\nBigCommerce$BIGC：+201%\n伯克利$BLI：+198%\nSEER$SEER：+197%\nAgora$API：+152%\n柠檬水$LMND：+139%\nNcino$NCNO：+133%\nVroom$Vrm：+118%\nAirbnb$ABNB：+112%\n雪花$雪花：+112%\nKE$BEKE：+87%\nDoorDash$Dash：+86%"
-    },
-    "zh-Hant": {
-      "full_text": "2020年IPO：首日與發行價.\nCureVac$CVAC：+249%\nBigCommerce$BIGC：+201%\n伯克利$BLI：+198%\nSEER$SEER：+197%\nAgora$API：+152%\n檸檬水$LMND：+139%\nNcino$NCNO：+133%\nVroom$Vrm：+118%\nAirbnb$ABNB：+112%\n雪花$雪花：+112%\nKE$BEKE：+87%\nDoorDash$Dash：+86%"
-    }
-  }
+  "lang": "en"
 }

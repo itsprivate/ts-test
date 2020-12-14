@@ -146,9 +146,9 @@
       }
     },
     "protected": false,
-    "followers_count": 200193,
+    "followers_count": 200210,
     "friends_count": 111,
-    "listed_count": 4514,
+    "listed_count": 4513,
     "created_at": "Wed May 08 14:41:31 +0000 2013",
     "favourites_count": 2470,
     "utc_offset": null,
@@ -185,18 +185,10 @@
   "place": null,
   "contributors": null,
   "is_quote_status": false,
-  "retweet_count": 192,
-  "favorite_count": 748,
+  "retweet_count": 193,
+  "favorite_count": 759,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en",
-  "i18nResource": {
-    "zh": {
-      "full_text": "自2008年以来的资产类别回报.\n\n通过@ycharts https://t.co/bXtSJ3MEah提供的数据"
-    },
-    "zh-Hant": {
-      "full_text": "自2008年以來的資產類別回報.\n\n通過@ycharts https://t.co/bXtSJ3MEah提供的數據"
-    }
-  }
+  "lang": "en"
 }

@@ -1,51 +1,55 @@
 {
-  "created_at": "Sun Dec 13 15:00:43 +0000 2020",
-  "id": 1338136775836000300,
-  "id_str": "1338136775836000257",
-  "full_text": "New Post:\n\nThe Current State of Covid in the US...\n\nhttps://t.co/mDmD1FNo9u https://t.co/3GpPn0iOiY",
+  "created_at": "Mon Nov 23 16:12:27 +0000 2020",
+  "id": 1330907072712552400,
+  "id_str": "1330907072712552455",
+  "full_text": "At $492 billion, Tesla's market cap is now higher than the market cap of...\nGM\nFord\nFiat Chrysler\nHonda\nHyundai\nDaimler\nFerrari\nBMW\n&amp; Volkswagen....\nCombined.\n\n$TSLA\n\nData via @ycharts https://t.co/zEOzwS160r",
   "truncated": false,
   "display_text_range": [
     0,
-    75
+    188
   ],
   "entities": {
     "hashtags": [],
-    "symbols": [],
-    "user_mentions": [],
-    "urls": [
+    "symbols": [
       {
-        "url": "https://t.co/mDmD1FNo9u",
-        "expanded_url": "https://compoundadvisors.com/2020/the-current-state-of-covid-in-the-us-12-13-20",
-        "display_url": "compoundadvisors.com/2020/the-curre…",
+        "text": "TSLA",
         "indices": [
-          52,
-          75
+          164,
+          169
         ]
       }
     ],
+    "user_mentions": [
+      {
+        "screen_name": "ycharts",
+        "name": "YCharts",
+        "id": 22869238,
+        "id_str": "22869238",
+        "indices": [
+          180,
+          188
+        ]
+      }
+    ],
+    "urls": [],
     "media": [
       {
-        "id": 1338136712963367000,
-        "id_str": "1338136712963366912",
+        "id": 1330906721712287700,
+        "id_str": "1330906721712287749",
         "indices": [
-          76,
-          99
+          189,
+          212
         ],
-        "media_url": "http://pbs.twimg.com/media/EpIEQC0XIAAJLvK.png",
-        "media_url_https": "https://pbs.twimg.com/media/EpIEQC0XIAAJLvK.png",
-        "url": "https://t.co/3GpPn0iOiY",
-        "display_url": "pic.twitter.com/3GpPn0iOiY",
-        "expanded_url": "https://twitter.com/charliebilello/status/1338136775836000257/photo/1",
+        "media_url": "http://pbs.twimg.com/media/EnhUnKjXMAU0sWu.png",
+        "media_url_https": "https://pbs.twimg.com/media/EnhUnKjXMAU0sWu.png",
+        "url": "https://t.co/zEOzwS160r",
+        "display_url": "pic.twitter.com/zEOzwS160r",
+        "expanded_url": "https://twitter.com/charliebilello/status/1330907072712552455/photo/1",
         "type": "photo",
         "sizes": {
           "small": {
             "w": 680,
-            "h": 362,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 822,
-            "h": 437,
+            "h": 402,
             "resize": "fit"
           },
           "thumb": {
@@ -54,8 +58,13 @@
             "resize": "crop"
           },
           "large": {
-            "w": 822,
-            "h": 437,
+            "w": 851,
+            "h": 503,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 851,
+            "h": 503,
             "resize": "fit"
           }
         }
@@ -65,27 +74,22 @@
   "extended_entities": {
     "media": [
       {
-        "id": 1338136712963367000,
-        "id_str": "1338136712963366912",
+        "id": 1330906721712287700,
+        "id_str": "1330906721712287749",
         "indices": [
-          76,
-          99
+          189,
+          212
         ],
-        "media_url": "http://pbs.twimg.com/media/EpIEQC0XIAAJLvK.png",
-        "media_url_https": "https://pbs.twimg.com/media/EpIEQC0XIAAJLvK.png",
-        "url": "https://t.co/3GpPn0iOiY",
-        "display_url": "pic.twitter.com/3GpPn0iOiY",
-        "expanded_url": "https://twitter.com/charliebilello/status/1338136775836000257/photo/1",
+        "media_url": "http://pbs.twimg.com/media/EnhUnKjXMAU0sWu.png",
+        "media_url_https": "https://pbs.twimg.com/media/EnhUnKjXMAU0sWu.png",
+        "url": "https://t.co/zEOzwS160r",
+        "display_url": "pic.twitter.com/zEOzwS160r",
+        "expanded_url": "https://twitter.com/charliebilello/status/1330907072712552455/photo/1",
         "type": "photo",
         "sizes": {
           "small": {
             "w": 680,
-            "h": 362,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 822,
-            "h": 437,
+            "h": 402,
             "resize": "fit"
           },
           "thumb": {
@@ -94,8 +98,13 @@
             "resize": "crop"
           },
           "large": {
-            "w": 822,
-            "h": 437,
+            "w": 851,
+            "h": 503,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 851,
+            "h": 503,
             "resize": "fit"
           }
         }
@@ -145,9 +154,9 @@
       }
     },
     "protected": false,
-    "followers_count": 200193,
+    "followers_count": 200211,
     "friends_count": 111,
-    "listed_count": 4514,
+    "listed_count": 4513,
     "created_at": "Wed May 08 14:41:31 +0000 2013",
     "favourites_count": 2470,
     "utc_offset": null,
@@ -184,18 +193,10 @@
   "place": null,
   "contributors": null,
   "is_quote_status": false,
-  "retweet_count": 12,
-  "favorite_count": 41,
+  "retweet_count": 296,
+  "favorite_count": 1013,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
-  "lang": "en",
-  "i18nResource": {
-    "zh": {
-      "full_text": "新帖子：\n\n美国目前的Covid状态.\n\nhttps://t.co/mDmD1FNo9u https://t.co/3GpPn0iOiY"
-    },
-    "zh-Hant": {
-      "full_text": "新帖子：\n\n美國目前的Covid狀態.\n\nhttps://t.co/mDmD1FNo9u https://t.co/3GpPn0iOiY"
-    }
-  }
+  "lang": "en"
 }

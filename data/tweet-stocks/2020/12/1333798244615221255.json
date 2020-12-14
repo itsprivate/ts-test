@@ -1,12 +1,12 @@
 {
-  "created_at": "Sat Dec 12 02:34:34 +0000 2020",
-  "id": 1337586615372411000,
-  "id_str": "1337586615372410881",
-  "full_text": "US SPACs, capital raised...\n2013: $1 billion\n2014: $2 billion\n2015: $4 billion\n2016: $3 billion\n2017: $11 billion\n2018: $9 billion\n2019: $13 billion\n2020 YTD: $78 billion",
+  "created_at": "Tue Dec 01 15:40:56 +0000 2020",
+  "id": 1333798244615221200,
+  "id_str": "1333798244615221255",
+  "full_text": "1. Stocks: all-time highs.\n2. Housing prices: all-time highs.\n3. Corporate bond yields: all-time lows.\n4. Mortgage rates: all-time lows.\n5. Jerome Powell: the outlook is \"extraordinarily uncertain.\" We need many more years of 0% interest rates and QE to stimulate the markets.",
   "truncated": false,
   "display_text_range": [
     0,
-    170
+    276
   ],
   "entities": {
     "hashtags": [],
@@ -57,9 +57,9 @@
       }
     },
     "protected": false,
-    "followers_count": 200193,
+    "followers_count": 200211,
     "friends_count": 111,
-    "listed_count": 4514,
+    "listed_count": 4513,
     "created_at": "Wed May 08 14:41:31 +0000 2013",
     "favourites_count": 2470,
     "utc_offset": null,
@@ -96,17 +96,9 @@
   "place": null,
   "contributors": null,
   "is_quote_status": false,
-  "retweet_count": 70,
-  "favorite_count": 397,
+  "retweet_count": 376,
+  "favorite_count": 1961,
   "favorited": false,
   "retweeted": false,
-  "lang": "en",
-  "i18nResource": {
-    "zh": {
-      "full_text": "美国的SPAC，募集的资金..。\n2013年：10亿美元\n2014年：20亿美元\n2015年：40亿美元\n2016年：30亿美元\n2017年：110亿美元\n2018年：90亿美元\n2019年：130亿美元\n2020 YTD：780亿美元"
-    },
-    "zh-Hant": {
-      "full_text": "美國的SPAC，募集的資金..。\n2013年：10億美元\n2014年：20億美元\n2015年：40億美元\n2016年：30億美元\n2017年：110億美元\n2018年：90億美元\n2019年：130億美元\n2020 YTD：780億美元"
-    }
-  }
+  "lang": "en"
 }

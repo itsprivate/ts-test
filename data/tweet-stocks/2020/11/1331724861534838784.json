@@ -1,104 +1,110 @@
 {
-  "created_at": "Sat Dec 12 03:22:26 +0000 2020",
-  "id": 1337598658985025500,
-  "id_str": "1337598658985025536",
-  "full_text": "With 98% of companies reported, Q3 S&amp;P 500 GAAP earnings down 2.9% over the last year, S&amp;P 500 Sales down 2.3%. $SPX https://t.co/5SZ11ghYdv",
+  "created_at": "Wed Nov 25 22:22:03 +0000 2020",
+  "id": 1331724861534838800,
+  "id_str": "1331724861534838784",
+  "full_text": "2020 IPOs vs. offering price\nLi Auto $LI: +254%\nPalantir $PLTR: +191%\nUnity $U: +164%\nSnowflake $SNOW: +152%\nZoomInfo $ZI: +124%\nBentley $BSY: +62%\nJFrog $FROG: +52%\nDuck Creek $DCT: +47%\nGoodRX $GDRX: +17%\nRocket $RKT: +13%\nSumo $SUMO: +7%\nAsana $ASAN: -8%\nMcafee $MCFE: -18%",
   "truncated": false,
   "display_text_range": [
     0,
-    124
+    276
   ],
   "entities": {
     "hashtags": [],
     "symbols": [
       {
-        "text": "SPX",
+        "text": "LI",
         "indices": [
-          120,
-          124
+          37,
+          40
+        ]
+      },
+      {
+        "text": "PLTR",
+        "indices": [
+          57,
+          62
+        ]
+      },
+      {
+        "text": "U",
+        "indices": [
+          76,
+          78
+        ]
+      },
+      {
+        "text": "SNOW",
+        "indices": [
+          96,
+          101
+        ]
+      },
+      {
+        "text": "ZI",
+        "indices": [
+          118,
+          121
+        ]
+      },
+      {
+        "text": "BSY",
+        "indices": [
+          137,
+          141
+        ]
+      },
+      {
+        "text": "FROG",
+        "indices": [
+          154,
+          159
+        ]
+      },
+      {
+        "text": "DCT",
+        "indices": [
+          177,
+          181
+        ]
+      },
+      {
+        "text": "GDRX",
+        "indices": [
+          195,
+          200
+        ]
+      },
+      {
+        "text": "RKT",
+        "indices": [
+          214,
+          218
+        ]
+      },
+      {
+        "text": "SUMO",
+        "indices": [
+          230,
+          235
+        ]
+      },
+      {
+        "text": "ASAN",
+        "indices": [
+          247,
+          252
+        ]
+      },
+      {
+        "text": "MCFE",
+        "indices": [
+          265,
+          270
         ]
       }
     ],
     "user_mentions": [],
-    "urls": [],
-    "media": [
-      {
-        "id": 1337598568417390600,
-        "id_str": "1337598568417390594",
-        "indices": [
-          125,
-          148
-        ],
-        "media_url": "http://pbs.twimg.com/media/EpAaz6KW8AIHNla.png",
-        "media_url_https": "https://pbs.twimg.com/media/EpAaz6KW8AIHNla.png",
-        "url": "https://t.co/5SZ11ghYdv",
-        "display_url": "pic.twitter.com/5SZ11ghYdv",
-        "expanded_url": "https://twitter.com/charliebilello/status/1337598658985025536/photo/1",
-        "type": "photo",
-        "sizes": {
-          "medium": {
-            "w": 1200,
-            "h": 378,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 680,
-            "h": 214,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 1233,
-            "h": 388,
-            "resize": "fit"
-          }
-        }
-      }
-    ]
-  },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1337598568417390600,
-        "id_str": "1337598568417390594",
-        "indices": [
-          125,
-          148
-        ],
-        "media_url": "http://pbs.twimg.com/media/EpAaz6KW8AIHNla.png",
-        "media_url_https": "https://pbs.twimg.com/media/EpAaz6KW8AIHNla.png",
-        "url": "https://t.co/5SZ11ghYdv",
-        "display_url": "pic.twitter.com/5SZ11ghYdv",
-        "expanded_url": "https://twitter.com/charliebilello/status/1337598658985025536/photo/1",
-        "type": "photo",
-        "sizes": {
-          "medium": {
-            "w": 1200,
-            "h": 378,
-            "resize": "fit"
-          },
-          "small": {
-            "w": 680,
-            "h": 214,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 1233,
-            "h": 388,
-            "resize": "fit"
-          }
-        }
-      }
-    ]
+    "urls": []
   },
   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
   "in_reply_to_status_id": null,
@@ -143,9 +149,9 @@
       }
     },
     "protected": false,
-    "followers_count": 200193,
+    "followers_count": 200211,
     "friends_count": 111,
-    "listed_count": 4514,
+    "listed_count": 4513,
     "created_at": "Wed May 08 14:41:31 +0000 2013",
     "favourites_count": 2470,
     "utc_offset": null,
@@ -182,18 +188,9 @@
   "place": null,
   "contributors": null,
   "is_quote_status": false,
-  "retweet_count": 37,
-  "favorite_count": 130,
+  "retweet_count": 340,
+  "favorite_count": 1540,
   "favorited": false,
   "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "i18nResource": {
-    "zh": {
-      "full_text": "随着98%的公司公布财报，标准普尔500指数第三季度GAAP收益比去年下降了2.9%，标准普尔500指数成份股公司的销售额下降了2.3%。$spx https://t.co/5SZ11ghYdv"
-    },
-    "zh-Hant": {
-      "full_text": "隨着98%的公司公佈財報，標準普爾500指數第三季度GAAP收益比去年下降了2.9%，標準普爾500指數成份股公司的銷售額下降了2.3%。$spx https://t.co/5SZ11ghYdv"
-    }
-  }
+  "lang": "en"
 }

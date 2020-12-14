@@ -1,106 +1,75 @@
 {
-  "created_at": "Sat Dec 12 16:02:32 +0000 2020",
-  "id": 1337789944325091300,
-  "id_str": "1337789944325091331",
-  "full_text": "New Post:\n\nPandemic + Recession = Multiple Expansion?\n\nhttps://t.co/MhXYSjUZXK https://t.co/o4F3D7VfMN",
+  "created_at": "Mon Nov 30 22:01:31 +0000 2020",
+  "id": 1333531633249628200,
+  "id_str": "1333531633249628165",
+  "full_text": "November...\nModerna $MRNA: +126%\nBitcoin $GBTC: +51%\nTesla $TSLA: +46%\nCarnival Cruise $CCL: +46%\nOil &amp; Gas Producers $XOP: +33%\nAirlines $JETS: +30%\nIPOs $IPO: +27%\nCrude Oil: +27%\nRussell 2000: +18%\nDow: +12%\nS&amp;P 500: +11%\nNasdaq 100: +11%\nGold: -5%\nVolatility Index $VIX: -46%",
   "truncated": false,
   "display_text_range": [
     0,
-    78
+    287
   ],
   "entities": {
     "hashtags": [],
-    "symbols": [],
-    "user_mentions": [],
-    "urls": [
+    "symbols": [
       {
-        "url": "https://t.co/MhXYSjUZXK",
-        "expanded_url": "https://compoundadvisors.com/2020/pandemic-recession-multiple-expansion",
-        "display_url": "compoundadvisors.com/2020/pandemic-…",
+        "text": "MRNA",
         "indices": [
-          55,
-          78
+          20,
+          25
+        ]
+      },
+      {
+        "text": "GBTC",
+        "indices": [
+          41,
+          46
+        ]
+      },
+      {
+        "text": "TSLA",
+        "indices": [
+          59,
+          64
+        ]
+      },
+      {
+        "text": "CCL",
+        "indices": [
+          87,
+          91
+        ]
+      },
+      {
+        "text": "XOP",
+        "indices": [
+          122,
+          126
+        ]
+      },
+      {
+        "text": "JETS",
+        "indices": [
+          142,
+          147
+        ]
+      },
+      {
+        "text": "IPO",
+        "indices": [
+          159,
+          163
+        ]
+      },
+      {
+        "text": "VIX",
+        "indices": [
+          277,
+          281
         ]
       }
     ],
-    "media": [
-      {
-        "id": 1337789870421532700,
-        "id_str": "1337789870421532676",
-        "indices": [
-          79,
-          102
-        ],
-        "media_url": "http://pbs.twimg.com/media/EpDIzJqXYAQ1y1f.png",
-        "media_url_https": "https://pbs.twimg.com/media/EpDIzJqXYAQ1y1f.png",
-        "url": "https://t.co/o4F3D7VfMN",
-        "display_url": "pic.twitter.com/o4F3D7VfMN",
-        "expanded_url": "https://twitter.com/charliebilello/status/1337789944325091331/photo/1",
-        "type": "photo",
-        "sizes": {
-          "small": {
-            "w": 496,
-            "h": 680,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 574,
-            "h": 787,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 574,
-            "h": 787,
-            "resize": "fit"
-          }
-        }
-      }
-    ]
-  },
-  "extended_entities": {
-    "media": [
-      {
-        "id": 1337789870421532700,
-        "id_str": "1337789870421532676",
-        "indices": [
-          79,
-          102
-        ],
-        "media_url": "http://pbs.twimg.com/media/EpDIzJqXYAQ1y1f.png",
-        "media_url_https": "https://pbs.twimg.com/media/EpDIzJqXYAQ1y1f.png",
-        "url": "https://t.co/o4F3D7VfMN",
-        "display_url": "pic.twitter.com/o4F3D7VfMN",
-        "expanded_url": "https://twitter.com/charliebilello/status/1337789944325091331/photo/1",
-        "type": "photo",
-        "sizes": {
-          "small": {
-            "w": 496,
-            "h": 680,
-            "resize": "fit"
-          },
-          "medium": {
-            "w": 574,
-            "h": 787,
-            "resize": "fit"
-          },
-          "thumb": {
-            "w": 150,
-            "h": 150,
-            "resize": "crop"
-          },
-          "large": {
-            "w": 574,
-            "h": 787,
-            "resize": "fit"
-          }
-        }
-      }
-    ]
+    "user_mentions": [],
+    "urls": []
   },
   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
   "in_reply_to_status_id": null,
@@ -145,9 +114,9 @@
       }
     },
     "protected": false,
-    "followers_count": 200193,
+    "followers_count": 200211,
     "friends_count": 111,
-    "listed_count": 4514,
+    "listed_count": 4513,
     "created_at": "Wed May 08 14:41:31 +0000 2013",
     "favourites_count": 2470,
     "utc_offset": null,
@@ -184,18 +153,9 @@
   "place": null,
   "contributors": null,
   "is_quote_status": false,
-  "retweet_count": 28,
-  "favorite_count": 152,
+  "retweet_count": 166,
+  "favorite_count": 726,
   "favorited": false,
   "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en",
-  "i18nResource": {
-    "zh": {
-      "full_text": "新帖子：\n\n大流行+衰退=多重扩张？\n\nhttps://t.co/MhXYSjUZXK https://t.co/o4F3D7VfMN"
-    },
-    "zh-Hant": {
-      "full_text": "新帖子：\n\n大流行+衰退=多重擴張？\n\nhttps://t.co/MhXYSjUZXK https://t.co/o4F3D7VfMN"
-    }
-  }
+  "lang": "en"
 }
