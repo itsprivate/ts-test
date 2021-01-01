@@ -5,63 +5,84 @@ const fs = fsPure.promises;
 const { readdir, writeFile, readFile } = fs;
 const { basename, resolve, relative } = path;
 async function main() {
+  // const directories = [
+  //   {
+  //     folders: ["data/reddit-top"],
+  //     issueDir: "data/reddit-top-issues",
+  //     config: {
+  //       reddit: 20,
+  //     },
+  //   },
+  //   {
+  //     folders: ["data/hn-top"],
+  //     issueDir: "data/hn-top-issues",
+  //     config: {
+  //       hn: 20,
+  //     },
+  //   },
+  //   {
+  //     folders: ["data/youtube-top"],
+  //     issueDir: "data/youtube-top-issues",
+  //     config: {
+  //       youtube: 20,
+  //     },
+  //   },
+  //   {
+  //     folders: ["data/ph-top"],
+  //     issueDir: "data/ph-top-issues",
+  //     config: {
+  //       ph: 20,
+  //     },
+  //   },
+  //   {
+  //     folders: ["data/ph-top"],
+  //     issueDir: "data/ph-top-issues",
+  //     config: {
+  //       ph: 20,
+  //     },
+  //   },
+  //   {
+  //     folders: ["data/reddit-stocks", "data/tweet-stocks"],
+  //     issueDir: "data/stocks-issues",
+  //     config: {
+  //       reddit: 15,
+  //       tweet: 5,
+  //     },
+  //   },
+  //   {
+  //     folders: ["data/reddit-crypto", "data/tweet-crypto"],
+  //     issueDir: "data/crypto-issues",
+  //     config: {
+  //       reddit: 15,
+  //       tweet: 5,
+  //     },
+  //   },
+  //   {
+  //     folders: ["data/reddit-changemyview"],
+  //     issueDir: "data/reddit-changemyview-issues",
+  //     config: {
+  //       reddit: 20,
+  //     },
+  //   },
+  // ];
   const directories = [
     {
-      folders: ["data/reddit-top"],
-      issueDir: "data/reddit-top-issues",
-      config: {
-        reddit: 20,
-      },
-    },
-    {
-      folders: ["data/hn-top"],
+      folders: [
+        "data/reddit-top",
+        "data/hn-top",
+        "data/youtube-top",
+        "data/ph-top",
+        "data/reddit-stocks",
+        "data/reddit-changemyview",
+        "data/tweet-crypto",
+      ],
       issueDir: "data/hn-top-issues",
       config: {
-        hn: 20,
-      },
-    },
-    {
-      folders: ["data/youtube-top"],
-      issueDir: "data/youtube-top-issues",
-      config: {
-        youtube: 20,
-      },
-    },
-    {
-      folders: ["data/ph-top"],
-      issueDir: "data/ph-top-issues",
-      config: {
-        ph: 20,
-      },
-    },
-    {
-      folders: ["data/ph-top"],
-      issueDir: "data/ph-top-issues",
-      config: {
-        ph: 20,
-      },
-    },
-    {
-      folders: ["data/reddit-stocks", "data/tweet-stocks"],
-      issueDir: "data/stocks-issues",
-      config: {
-        reddit: 15,
-        tweet: 5,
-      },
-    },
-    {
-      folders: ["data/reddit-crypto", "data/tweet-crypto"],
-      issueDir: "data/crypto-issues",
-      config: {
-        reddit: 15,
-        tweet: 5,
-      },
-    },
-    {
-      folders: ["data/reddit-changemyview"],
-      issueDir: "data/reddit-changemyview-issues",
-      config: {
         reddit: 20,
+        hn: 20,
+        youtube: 20,
+        ph: 20,
+        tweet: 5,
       },
     },
   ];
@@ -258,7 +279,7 @@ async function main() {
         }
       }
     }
-    if (issueSourceFilesLength < 70) {
+    if (issueSourceFilesLength < 1) {
       isNeedToGenerateNewIssue = false;
       console.log(
         "the issue source files is less than 70, no need to generatre issue"
@@ -325,7 +346,7 @@ async function main() {
 
     if (issueFile) {
       // generate
-      if (finalGroup.items && finalGroup.items.length >= 20) {
+      if (finalGroup.items) {
         const finalIssue = {
           ...finalGroup.issueInfo,
           items: finalGroup.items.map((item) => {

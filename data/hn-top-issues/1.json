@@ -1,92 +1,60 @@
 {
-  "createdAt": 1609265959339,
-  "updatedAt": 1609265959339,
-  "startedAt": 1608661159339,
-  "endedAt": 1609265959339,
+  "createdAt": 1609527354825,
+  "updatedAt": 1609527354825,
+  "startedAt": 1608922554825,
+  "endedAt": 1609527354825,
   "id": 1,
   "issueNumber": 1,
-  "year": 2020,
+  "year": 2021,
   "draft": false,
   "items": [
     {
-      "slug": "/hn/25518730",
+      "slug": "hn/25600338",
       "type": "hn"
     },
     {
-      "slug": "/hn/25551487",
+      "slug": "hn/25600274",
       "type": "hn"
     },
     {
-      "slug": "/hn/25521836",
+      "slug": "hn/25601814",
       "type": "hn"
     },
     {
-      "slug": "/hn/25507942",
+      "slug": "hn/25601846",
       "type": "hn"
     },
     {
-      "slug": "/hn/25517868",
+      "slug": "hn/25602950",
       "type": "hn"
     },
     {
-      "slug": "/hn/25520353",
+      "slug": "hn/25601821",
       "type": "hn"
     },
     {
-      "slug": "/hn/25534588",
+      "slug": "hn/25600011",
       "type": "hn"
     },
     {
-      "slug": "/hn/25538218",
-      "type": "hn"
+      "slug": "youtube/ZyJoRqW9fbU",
+      "type": "youtube"
     },
     {
-      "slug": "/hn/25537230",
-      "type": "hn"
+      "slug": "ph/everyday-2-0-3",
+      "type": "ph"
     },
     {
-      "slug": "/hn/25538586",
-      "type": "hn"
+      "slug": "reddit/r/wallstreetbets/comments/koacos/happy_new_year_wsb/",
+      "type": "reddit"
     },
     {
-      "slug": "/hn/25520481",
-      "type": "hn"
+      "slug": "reddit/r/changemyview/comments/knwmzr/cmv_edinson_cavanis_case_just_shows_how_political/",
+      "type": "reddit"
     },
     {
-      "slug": "/hn/25520510",
-      "type": "hn"
-    },
-    {
-      "slug": "/hn/25519718",
-      "type": "hn"
-    },
-    {
-      "slug": "/hn/25548938",
-      "type": "hn"
-    },
-    {
-      "slug": "/hn/25566652",
-      "type": "hn"
-    },
-    {
-      "slug": "/hn/25556286",
-      "type": "hn"
-    },
-    {
-      "slug": "/hn/25542505",
-      "type": "hn"
-    },
-    {
-      "slug": "/hn/25515004",
-      "type": "hn"
-    },
-    {
-      "slug": "/hn/25513713",
-      "type": "hn"
-    },
-    {
-      "slug": "/hn/25524472",
-      "type": "hn"
+      "slug": "tweet/1344981849634959361",
+      "type": "tweet"
     }
   ]
 }
