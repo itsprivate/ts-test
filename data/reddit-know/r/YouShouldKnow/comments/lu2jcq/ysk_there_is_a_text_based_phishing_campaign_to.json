@@ -1,4 +1,5 @@
 {
+  "author": "GameAndHike",
   "the_new_excerpt": "Why YSK: There is currently text bot sending very convincing texts claiming to\nbe Venmo's fraud service. They ask you to follow a link that looks like it's\nVenmo's and sign in. The link uses \"venmo\" as its third level domain so it\nappears legit, but the second level domain is something else meaning…",
   "original_created_utc": 1614476789,
   "localize": [

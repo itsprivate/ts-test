@@ -1,4 +1,5 @@
 {
+  "author": "melbogia",
   "the_new_excerpt": "I am looking at https://mars.nasa.gov/mars2020/spacecraft/rover/communications/\nwhich talks about how the rover communicated with Earth, which is through the\norbiter.\n\nI am trying to figure what protocol does the orbiter use? Is it TCP/UDP, or\nsomething else? Naively I’d assume TCP since the orbiter…",
   "original_created_utc": 1613928725,
   "localize": [

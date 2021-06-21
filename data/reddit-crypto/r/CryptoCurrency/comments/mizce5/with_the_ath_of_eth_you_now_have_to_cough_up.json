@@ -1,4 +1,5 @@
 {
+  "author": "tsnud",
   "the_new_excerpt": "Ethereum 2.0 will change the security of the network from proof of work (POW,\nmining) to proof of stake (POS). People can run a validator node to contribute,\nbut you need to stake 32 ETH. If your validator 'behaves', you can earn ETH in\nthe process (somewhere between 5-12% per year). If your node is…",
   "original_created_utc": 1617416444,
   "localize": [

@@ -1,4 +1,5 @@
 {
+  "author": "makaros622",
   "the_new_excerpt": "I did a simple correlation analysis and I found that there is a significant (at\nthe limit; p=0.05) negative correlation (rho= -0.319) between the GME and S&P500\nprice.\n\nPython Code:\n\nimport numpy as np, pandas as pd, matplotlib.pyplot as plt\nfrom scipy.stats import pearsonr\n\nsp500 =…",
   "original_created_utc": 1614710477,
   "localize": [

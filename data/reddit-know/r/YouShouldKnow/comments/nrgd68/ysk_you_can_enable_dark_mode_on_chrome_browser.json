@@ -1,4 +1,5 @@
 {
+  "author": "alex6219",
   "the_new_excerpt": "Why YSK: Dark mode puts less strain on your eyes than the default white mode.\n\nStep 1. Type \"Chrome://flags\" in the URL bar\n\nStep 2. Type \"Dark Mode\" in the Search Flags bar\n\nStep 3. Under \"Force Dark Mode for Web Contents\" select \"Enabled\"\n\nStep 4. Relaunch Chrome for settings to take effect.\n\nThis…",
   "original_created_utc": 1622734596,
   "localize": [

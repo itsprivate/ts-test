@@ -1,4 +1,5 @@
 {
+  "author": "WaterBoye",
   "the_new_excerpt": "Hey all! I've been working on my own Stock Watchlist using Google Sheets. In\nGoogle Sheets you can retrieve automatically Google Finance data. Using this\ndata, I've created a stock watchlist. I use this list daily to time my new\npurchases. Since it's been so useful for me, I thought I'd share it…",
   "original_created_utc": 1619254771,
   "localize": [

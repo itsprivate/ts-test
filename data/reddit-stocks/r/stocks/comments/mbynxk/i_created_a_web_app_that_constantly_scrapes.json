@@ -1,4 +1,5 @@
 {
+  "author": "Zz0z77",
   "the_new_excerpt": "https://reddit-data-analysis.herokuapp.com/\n\nJust wanted to share a cool project I did over the past few weeks...\n\nThe process works like this: a program scrapes the top-rated comments from\ndiscussion boards on the WallStreetBets, Finance, Stock, and Investing\nsubreddits every single hour and…",
   "original_created_utc": 1616565039,
   "localize": [

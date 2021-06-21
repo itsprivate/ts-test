@@ -1,4 +1,5 @@
 {
+  "author": "SorenLantz",
   "the_new_excerpt": "THE METRIC\n\nI recently had an idea for a metric to be used to find hot stocks. I call the\nmetric \"Price Elasticity\" and it is comprised of two numbers: upturn elasticity\nand downturn elasticity.\n\n * Upturn elasticity: the average % change in a stock on market up days\n * Downturn elasticity: the…",
   "original_created_utc": 1609528327,
   "localize": [

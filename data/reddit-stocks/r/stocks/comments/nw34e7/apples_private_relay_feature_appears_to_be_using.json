@@ -1,4 +1,5 @@
 {
+  "author": "ShaidarHaran2",
   "the_new_excerpt": "Not sure if this is enough news, but I found the implications interesting. If\nyou turn on Private Relay in beta then in ipfind service you get Cloudflare as\nISP. So this appears to be using Cloudflare's Warp privacy service and private\nDNS, but with some sort of second hop.\n\nSo where other VPN…",
   "original_created_utc": 1623264268,
   "localize": [

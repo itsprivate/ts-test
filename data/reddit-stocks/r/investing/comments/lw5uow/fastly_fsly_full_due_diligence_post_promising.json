@@ -1,4 +1,5 @@
 {
+  "author": "rareliquid",
   "the_new_excerpt": "Hello! Below is some diligence on Fastly, one of the innovators of the CDN /\nedge computing space. TDLR and resources used at the bottom.\n\nWhat are CDNs and Edge Computing?\n\n * Before I get into Fastly, I first need to set the stage by defining CDNs and\n   Edge Computing (or else the rest of the…",
   "original_created_utc": 1614702067,
   "localize": [

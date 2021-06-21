@@ -1,4 +1,5 @@
 {
+  "author": "etheraider",
   "the_new_excerpt": "Optimistic Rollups are going live in March on Ethereum which is next week.\n\nWhat is special about Optimistic Rollups is that they are VERY easy for DAPPS\nlike Uniswap, Compound, Aave, etc to implement.\n\nThey basically copy paste their code over into Optimism and voila they're on L2.\n\nUniswap is…",
   "original_created_utc": 1614297408,
   "localize": [

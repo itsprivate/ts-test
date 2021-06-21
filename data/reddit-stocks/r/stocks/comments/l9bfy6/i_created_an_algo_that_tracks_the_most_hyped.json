@@ -1,4 +1,5 @@
 {
+  "author": "swaggymedia",
   "the_new_excerpt": "What's up everyone. I created an algo that scans the most popular trading\nsub-reddits and logs the tickers mentioned in due-diligence or discussion-styled\nposts. Instead of scanning for how many times each ticker was mentioned in a\ncomment, I logged how popular the post was among the sub-reddit.…",
   "original_created_utc": 1612096337,
   "localize": [

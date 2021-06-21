@@ -1,4 +1,5 @@
 {
+  "author": "CyberPunkMetalHead",
   "the_new_excerpt": "The script searches the web for cryptocurrency news, taking keywords as input\nand then passes those to a text sentiment API, analysing how many of the\nheadlines are positive, neutral or negative.\n\nThe idea is that the script will check multiple sources and then calculate a %\nfor each of the 3…",
   "original_created_utc": 1617727214,
   "localize": [

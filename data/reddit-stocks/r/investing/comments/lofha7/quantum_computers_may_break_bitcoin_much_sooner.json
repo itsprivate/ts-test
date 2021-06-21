@@ -1,4 +1,5 @@
 {
+  "author": "FractalsSourceCode",
   "the_new_excerpt": "So quantum computers can break cryptocurrency in 2 ways. One, a quantum computer\ncan reverse engineer a wallet’s private key. A private key is generated at\nrandom, however, the public key is generated from the private key. A quantum\ncomputer can reverse engineer this process and take everyone’s…",
   "original_created_utc": 1613851669,
   "localize": [

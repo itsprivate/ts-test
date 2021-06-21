@@ -1,4 +1,5 @@
 {
+  "author": "randomtrip10",
   "the_new_excerpt": "https://github.com/nanocurrency/nano-node/milestone/19\n\nFinally hit 100% complete. For those that don’t know this update is a fix to the\nspam problem nano was facing few months back.\n\nIt works by giving less priority to transactions that send dust amounts.",
   "original_created_utc": 1620930404,
   "localize": [

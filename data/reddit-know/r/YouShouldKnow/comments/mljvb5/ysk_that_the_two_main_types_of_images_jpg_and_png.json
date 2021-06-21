@@ -1,4 +1,5 @@
 {
+  "author": "robertgfthomas",
   "the_new_excerpt": "TLDR: Use PNG if your image contains solid colors (e.g. simple graphics, logos,\ntext) and JPG if it contains gradients (e.g. photos, most screenshots).\n\nWhy YSK: In general PNG looks better, but JPG uses much less memory. You can\nreduce the size of emails, texts, etc. by using the right kind of…",
   "original_created_utc": 1617737955,
   "localize": [

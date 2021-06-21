@@ -1,4 +1,5 @@
 {
+  "author": "ChiggaOG",
   "the_new_excerpt": "Why YSK:\n\nIf you've been in a situation where you have a password-protected excel file and\ncan't make changes or you forgot your password. There is a way to remove that\nprotection. If you did not know, Excel files are also zip files with coding. The\npassword protection is SHA-512\n\nChanging the excel…",
   "original_created_utc": 1617815429,
   "localize": [

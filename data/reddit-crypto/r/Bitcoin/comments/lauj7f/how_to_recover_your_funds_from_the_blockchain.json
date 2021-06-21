@@ -1,4 +1,5 @@
 {
+  "author": "ravharn",
   "the_new_excerpt": "The Blockchain wallet is not working for anyone, displaying balance as 0, do not\nuse this wallet anymore. Here's a solution:\n\nDownload the Electrum Wallet: electrum[dot]org\n\nInstall it, choose \"Standard Wallet Address\"\n\nChoose \"I have a seed phrase\" and write your 12 word seed phrase\n\nPress…",
   "original_created_utc": 1612269351,
   "localize": [

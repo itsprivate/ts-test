@@ -1,4 +1,5 @@
 {
+  "author": "wacc_capital",
   "the_new_excerpt": "Hi everyone,\n\nHad some free time today so I ran some numbers on IPOs.\n\nAssumptions of the data / disclosures:\n\n- Survivorship bias (companies that did not make it are not included)\n\n- Removed companies for which no data was available in BBG (i.e. IPO date,\noffering size, etc.)\n\n- Some data points…",
   "original_created_utc": 1608399170,
   "localize": [

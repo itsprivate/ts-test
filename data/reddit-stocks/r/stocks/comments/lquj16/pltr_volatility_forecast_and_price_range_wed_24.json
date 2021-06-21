@@ -1,4 +1,5 @@
 {
+  "author": "Billy-Klein",
   "the_new_excerpt": "Hey guys, for my Bachelor Thesis I am working with GARCH-Models, that is a tool\nfor Time Series Analysis of a given Dataset to predict future Volatility.\n\nBeforehand, one problem with PLTR is that I don't have enough data because the\nstock is pretty new, so when I take the adjusted daily closing…",
   "original_created_utc": 1614118258,
   "localize": [

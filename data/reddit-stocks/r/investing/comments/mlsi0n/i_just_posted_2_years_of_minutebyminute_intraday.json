@@ -1,4 +1,5 @@
 {
+  "author": "empty_stack_engineer",
   "the_new_excerpt": "https://www.kaggle.com/teldarpaper9000/2-years-stock-data-by-minute-sp-vix-memestonk\n\nI've been looking for a free source for intraday, minute-by-minute historical\nstock market data for a while to no avail, so I decided to make one publicly\navailable on Kaggle.\n\nI'm hoping this will make backtesting…",
   "original_created_utc": 1617763669,
   "localize": [

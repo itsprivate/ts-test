@@ -1,4 +1,5 @@
 {
+  "author": "EarthBotx",
   "the_new_excerpt": "Why YSK: Android's latest update has been causing apps to crash constantly.\n\nSimply go to Settings->apps, click the three dots and \"Show system apps\". Then,\nopen Android Webview or Chrome and uninstall updates. Hope this helps!\n\nSource: https://www.androidauthority.com/android-apps-crashing-1210994/",
   "original_created_utc": 1616478949,
   "localize": [

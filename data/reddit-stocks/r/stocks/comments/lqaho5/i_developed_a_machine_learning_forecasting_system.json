@@ -1,4 +1,5 @@
 {
+  "author": "Kemba4Heisman",
   "the_new_excerpt": "HOW DOES THIS WORK?\n\nThese forecasts are produced by machine learning models trained on past closing\nprice data. Essentially the models try to learn the underlying dynamics of the\nclosing price and then project future closing price based on that. They are by\ndefinition not sensitive to any company…",
   "original_created_utc": 1614058653,
   "localize": [

@@ -1,4 +1,5 @@
 {
+  "author": "jomarca23",
   "the_new_excerpt": "Hi all, I came up with a good way to extract institutional investor transactions\nusing Python from an API in order to analyse if investors are buying or selling\nstocks in a particular company.\n\nFor example, below table is the outcome showing the transactions performed by\ninstitutional investors…",
   "original_created_utc": 1613314225,
   "localize": [

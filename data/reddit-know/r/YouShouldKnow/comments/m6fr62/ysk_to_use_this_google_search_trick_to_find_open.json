@@ -1,4 +1,5 @@
 {
+  "author": "r_pg101",
   "the_new_excerpt": "Why YSK:\n\nThere's a simple trick you can use on your Google searches to find all the\nopenly available spreadsheets out there. The only thing you need to do is write\nthe following syntax in your google search:\n\n * site:docs.google.com/spreadsheets intitle:[anything you want]\n\nHowever, there are a…",
   "original_created_utc": 1615919206,
   "localize": [

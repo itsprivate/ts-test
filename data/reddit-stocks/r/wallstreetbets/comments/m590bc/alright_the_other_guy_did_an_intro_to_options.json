@@ -1,4 +1,5 @@
 {
+  "author": "bahgelovich",
   "the_new_excerpt": "I'm going to teach you guys about call/put spreads.\n\nIn this guide, we'll use AMC as the example. Let's pretend it is currently\ntrading at $9.28.\n\n\nFIRST, SOME TERMS YOU SHOULD KNOW:\n\nOption: a contract that gives you the OPTION to buy or sell 100 shares of a\nstock at a certain price (strike price)…",
   "original_created_utc": 1615770094,
   "localize": [

@@ -1,4 +1,5 @@
 {
+  "author": "akokaz1",
   "the_new_excerpt": "I created an algorithm that scans popular trading subreddits and logs when\nstocks are mentioned. It also analyses the posts and comments that the stocks\nare mentioned in and calculates the sentiment and context the stock is mentioned\nin.\n\nThe algorithm tries to track the overall hype and prevalence…",
   "original_created_utc": 1613659525,
   "localize": [

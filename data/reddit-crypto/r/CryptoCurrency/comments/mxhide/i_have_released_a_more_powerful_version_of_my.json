@@ -1,4 +1,5 @@
 {
+  "author": "CyberPunkMetalHead",
   "the_new_excerpt": "I have recently shared my latest project with you guys - a trading algorithm\nconnected to Binance that buys cryptocurrencies based on how positive the daily\nnews sentiment is for the top 100 crypto news feeds.\n\nWith the help of some talented Redditors and GitHub contributors, the algorithm\nis now…",
   "original_created_utc": 1619261099,
   "localize": [

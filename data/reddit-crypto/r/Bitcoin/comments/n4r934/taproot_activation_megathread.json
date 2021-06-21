@@ -1,4 +1,5 @@
 {
+  "author": "TheGreatMuffin",
   "the_new_excerpt": "An activation mechanism called \"Speedy Trial\n[https://bitcoinmagazine.com/technical/speedy-trial-merged-into-bitcoin-core]\"\nhas just started on the 1st of May. Its goal is to give miners an opportunity to\ncoordinate a quick activation of the Taproot update.\n\nThe gist of it is: miners are given a…",
   "original_created_utc": 1620142408,
   "localize": [

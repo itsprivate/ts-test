@@ -1,4 +1,5 @@
 {
+  "author": "ehilliux",
   "the_new_excerpt": "Back in July 2020 the IOHK team deployed the Shelley update and set d, the\nparameter that governs what percentage of transactions are processed by the\ngenesis nodes, to 1.00. Every five days since then ADA has seen an increase of\n2% (additively) in community block production.\n\nADA is currently 98%…",
   "original_created_utc": 1616877943,
   "localize": [
