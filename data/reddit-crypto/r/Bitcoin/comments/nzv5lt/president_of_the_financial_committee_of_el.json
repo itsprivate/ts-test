@@ -1,0 +1,88 @@
+{
+  "the_new_excerpt": "",
+  "original_created_utc": 1623699868,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エルサルバドル議会の金融委員会の議長🇸🇻が、歴史的なビットコイン法定通貨法案の採決の際に、この地図を掲げました! ビットコインは希望です。"
+    },
+    {
+      "locale": "zh",
+      "title": "萨尔瓦多国会金融委员会主席🇸🇻在历史性的比特币法定货币法案投票中举起了这张地图! 比特币是希望。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "薩爾瓦多國會金融委員會主席🇸🇻在歷史性的比特幣法定貨幣法案投票中舉起了這張地圖! 比特幣是希望。"
+    }
+  ],
+  "title": "President of the Financial Committee of El Salvador's Congress 🇸🇻 held up this map during the historic Bitcoin legal tender bill vote! Bitcoin is hope.",
+  "created_utc": 1623732731,
+  "selftext_html": null,
+  "score": 271,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/CHAPNWW567WC8uys7-wsUguYapuBsRLFEqkN9JtNjIE.png?format=pjpg&auto=webp&s=e97a85e5f8c4477e76dd2746f5405aecb3cc51c3",
+          "width": 1280,
+          "height": 720
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/CHAPNWW567WC8uys7-wsUguYapuBsRLFEqkN9JtNjIE.png?width=108&crop=smart&format=pjpg&auto=webp&s=314b0a4d2464a92f84fcb38f32e9ba4d4c4eba3d",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/CHAPNWW567WC8uys7-wsUguYapuBsRLFEqkN9JtNjIE.png?width=216&crop=smart&format=pjpg&auto=webp&s=7e740b901bf9297bf5944b99d91648b1e63baa52",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/CHAPNWW567WC8uys7-wsUguYapuBsRLFEqkN9JtNjIE.png?width=320&crop=smart&format=pjpg&auto=webp&s=ba6483e30667385c1e82741703baacf6174a7031",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/CHAPNWW567WC8uys7-wsUguYapuBsRLFEqkN9JtNjIE.png?width=640&crop=smart&format=pjpg&auto=webp&s=a616171c0c8cb09c3b9a5572c8c0d1f99e2b5628",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://external-preview.redd.it/CHAPNWW567WC8uys7-wsUguYapuBsRLFEqkN9JtNjIE.png?width=960&crop=smart&format=pjpg&auto=webp&s=172d42a6481e32806e798d8c52d430ae70e6803a",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://external-preview.redd.it/CHAPNWW567WC8uys7-wsUguYapuBsRLFEqkN9JtNjIE.png?width=1080&crop=smart&format=pjpg&auto=webp&s=f497beae014cc80f1417bed939710bc3f9120afd",
+            "width": 1080,
+            "height": 607
+          }
+        ],
+        "variants": {},
+        "id": "UeMe70ZHZJEBzgeBnvAMlDQzQ8SEwLpxvO6Tx8_WsVw"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/nzv5lt/president_of_the_financial_committee_of_el/",
+  "subreddit": "Bitcoin",
+  "id": "nzv5lt",
+  "is_self": false,
+  "media": {
+    "reddit_video": {
+      "bitrate_kbps": 2400,
+      "fallback_url": "https://v.redd.it/u6f7s6grba571/DASH_720.mp4?source=fallback",
+      "height": 720,
+      "width": 1280,
+      "scrubber_media_url": "https://v.redd.it/u6f7s6grba571/DASH_96.mp4",
+      "dash_url": "https://v.redd.it/u6f7s6grba571/DASHPlaylist.mpd?a=1626324731%2CNjYyZmIzMzVjYjNmZGI0ZTgwNmZmMjE2M2I4YjkyMDFjZDc0NWFlNTY4NGRlMjllN2ZlYWI0YTYwMDNhYzBkNQ%3D%3D&v=1&f=sd",
+      "duration": 122,
+      "hls_url": "https://v.redd.it/u6f7s6grba571/HLSPlaylist.m3u8?a=1626324731%2CODY2NjZhYjMzNzk1NTgyY2RhOWNiMmQwNGRjMjdlMDU4ODgzNWM3YTE5YmZjMWE0ODhlZmUzNjFkYzRkZDQwNA%3D%3D&v=1&f=sd",
+      "is_gif": false,
+      "transcoding_status": "completed"
+    }
+  },
+  "is_video": true,
+  "source_updated_at": 1624009734588
+}

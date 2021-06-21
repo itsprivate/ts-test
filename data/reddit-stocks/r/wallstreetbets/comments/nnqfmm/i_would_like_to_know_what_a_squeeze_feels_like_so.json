@@ -1,0 +1,42 @@
+{
+  "the_new_excerpt": "",
+  "original_created_utc": 1622304056,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "握手の感覚を知りたいので、今はAMC to the MOON🚀であなたと一緒にラインを握っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我想知道挤压的感觉，所以我现在和你一起坚守着AMC到月亮🚀🚀。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想知道擠壓的感覺，所以我現在和你一起堅守着AMC到月亮🚀🚀。"
+    }
+  ],
+  "title": "I would like to know what a squeeze feels like, so I'm holding the line with you now AMC to the MOON🚀🚀",
+  "created_utc": 1622318384,
+  "selftext_html": null,
+  "score": 6182,
+  "permalink": "/r/wallstreetbets/comments/nnqfmm/i_would_like_to_know_what_a_squeeze_feels_like_so/",
+  "subreddit": "wallstreetbets",
+  "id": "nnqfmm",
+  "is_self": false,
+  "media": {
+    "reddit_video": {
+      "bitrate_kbps": 1200,
+      "fallback_url": "https://v.redd.it/don84ok613271/DASH_480.mp4?source=fallback",
+      "height": 416,
+      "width": 854,
+      "scrubber_media_url": "https://v.redd.it/don84ok613271/DASH_96.mp4",
+      "dash_url": "https://v.redd.it/don84ok613271/DASHPlaylist.mpd?a=1624910383%2CYWVlN2I3ZTY1YjA0ZjU4ZTAwYTk1ZjRjYjI2N2ZjOGZlYmM3OTI2MWNhMzA4NzVkMGNkYWNmMTc0YzQ2YjBlMA%3D%3D&v=1&f=sd",
+      "duration": 72,
+      "hls_url": "https://v.redd.it/don84ok613271/HLSPlaylist.m3u8?a=1624910383%2CMjE4NWJmNzk5M2I2MTVhYjJlOWE4ZjU0Y2RhNGFiNWUyZmI0NmVjM2U5OTE0NDdlZjZjM2MzMzlmYjFlZWFkZQ%3D%3D&v=1&f=sd",
+      "is_gif": false,
+      "transcoding_status": "completed"
+    }
+  },
+  "is_video": true,
+  "source_updated_at": 1622804301826
+}

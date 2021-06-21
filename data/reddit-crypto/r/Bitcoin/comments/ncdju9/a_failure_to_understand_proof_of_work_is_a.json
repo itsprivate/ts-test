@@ -1,0 +1,65 @@
+{
+  "the_new_excerpt": "",
+  "original_created_utc": 1621011948,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プルーフ・オブ・ワークを理解できないことは、#ビットコインを理解できないことです。スレッドですね。🧵👇"
+    },
+    {
+      "locale": "zh",
+      "title": "不了解工作证明就是不了解#比特币。一条线。🧵👇"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不瞭解工作證明就是不瞭解#比特幣。一條線。🧵👇"
+    }
+  ],
+  "title": "A failure to understand proof of work is a failure to understand #Bitcoin. A thread. 🧵👇",
+  "created_utc": 1621054135,
+  "selftext_html": null,
+  "score": 238,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/TR-rs4cSVFQemWDeP8501aCOI2UEYE8sy4PCn5r7dJU.jpg?auto=webp&s=660b2107a1c4b5523215e3b8a29a271209712dd0",
+          "width": 140,
+          "height": 140
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/TR-rs4cSVFQemWDeP8501aCOI2UEYE8sy4PCn5r7dJU.jpg?width=108&crop=smart&auto=webp&s=e541a777640419a1bc493ba1b0f402519cb22ae6",
+            "width": 108,
+            "height": 108
+          }
+        ],
+        "variants": {},
+        "id": "E_ik9tG448_hMfDwyRyC_Upjae1wFO3QSGY7NFEIGuc"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/ncdju9/a_failure_to_understand_proof_of_work_is_a/",
+  "subreddit": "Bitcoin",
+  "id": "ncdju9",
+  "is_self": false,
+  "media": {
+    "type": "twitter.com",
+    "oembed": {
+      "provider_url": "https://twitter.com",
+      "version": "1.0",
+      "url": "https://twitter.com/dergigi/status/1392826448017346561",
+      "author_name": "Gigi ☣️☯️",
+      "height": null,
+      "width": 350,
+      "html": "<blockquote class=\"twitter-video\"><p lang=\"en\" dir=\"ltr\">A failure to understand proof of work is a failure to understand <a href=\"https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw\">#Bitcoin</a>. <br><br>A thread. 🧵👇</p>&mdash; Gigi ☣️☯️ (@dergigi) <a href=\"https://twitter.com/dergigi/status/1392826448017346561?ref_src=twsrc%5Etfw\">May 13, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+      "author_url": "https://twitter.com/dergigi",
+      "provider_name": "Twitter",
+      "cache_age": 3153600000,
+      "type": "rich"
+    }
+  },
+  "is_video": false,
+  "source_updated_at": 1621590794217
+}

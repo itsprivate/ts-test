@@ -1,0 +1,61 @@
+{
+  "the_new_excerpt": "",
+  "original_created_utc": 1614872304,
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "美国国税局刚刚澄清，用币和HODLING购买比特币不需要1040报税。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國國稅局剛剛澄清，用幣和HODLING購買比特幣不需要1040報稅。"
+    }
+  ],
+  "title": "The IRS just clarified that buying bitcoin with fiat and HODLING doesn't require 1040 tax reporting.",
+  "created_utc": 1614893701,
+  "selftext_html": null,
+  "score": 1132,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/48JwAvKrY5qzhI0z8TH_tnmLY89ddGlHR4Ar6_4zJ3U.jpg?auto=webp&s=c024d09d9895c4b26e615e5d5f9cb5f2ba7e1640",
+          "width": 140,
+          "height": 54
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/48JwAvKrY5qzhI0z8TH_tnmLY89ddGlHR4Ar6_4zJ3U.jpg?width=108&crop=smart&auto=webp&s=1c3c332d8eebb0813a77a1e1e9d8c33f1a02f162",
+            "width": 108,
+            "height": 41
+          }
+        ],
+        "variants": {},
+        "id": "hABg5RcuUggLgCPebBeKtC4SPQn-mCewxIt943eYwbY"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/lxna0p/the_irs_just_clarified_that_buying_bitcoin_with/",
+  "subreddit": "Bitcoin",
+  "id": "lxna0p",
+  "is_self": false,
+  "media": {
+    "oembed": {
+      "provider_url": "https://twitter.com",
+      "url": "https://twitter.com/DocumentingBTC/status/1367495536828383234",
+      "html": "<blockquote class=\"twitter-video\"><p lang=\"en\" dir=\"ltr\">The IRS just clarified that buying <a href=\"https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw\">#bitcoin</a> with fiat and HODLING doesn&#39;t require 1040 tax reporting. <a href=\"https://t.co/deo4m6RF7u\">pic.twitter.com/deo4m6RF7u</a></p>&mdash; Documenting Bitcoin 📄 (@DocumentingBTC) <a href=\"https://twitter.com/DocumentingBTC/status/1367495536828383234?ref_src=twsrc%5Etfw\">March 4, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+      "author_name": "Documenting Bitcoin 📄",
+      "height": null,
+      "width": 350,
+      "version": "1.0",
+      "author_url": "https://twitter.com/DocumentingBTC",
+      "provider_name": "Twitter",
+      "cache_age": 3153600000,
+      "type": "rich"
+    },
+    "type": "twitter.com"
+  },
+  "is_video": false,
+  "source_updated_at": 1615542567856
+}

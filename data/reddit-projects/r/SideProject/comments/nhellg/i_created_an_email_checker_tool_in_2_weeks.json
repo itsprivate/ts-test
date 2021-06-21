@@ -1,0 +1,77 @@
+{
+  "the_new_excerpt": "Hey there! 👋\n\n51% of emails sent are landing in spam everyday. What about yours?\n\nEmail deliverability has become a major issue because an email that doesn't\nreach the inbox won't be read by anyone.\n\nIn a basic way, your email deliverability relies on 3 key elements:\n\n\n\n * The reputation of the…",
+  "original_created_utc": 1621553383,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "お待たせしました。👋\n\n毎日送られてくるメールの51％がスパムになっているそうです。あなたのメールはどうですか？\n\nメールが受信箱に届かないと誰にも読まれないため、メールの配信は大きな問題となっています。\nメールが受信箱に届かないと誰にも読まれません。\n\n基本的には、メールの配信能力は3つの重要な要素に依存しています。\n\n\n\n * メールソフトの評判...",
+      "title": "私は2週間でメールチェックツール(Mailook)を作成し、人々がメールの配信能力を修正できるようにし、PHでの私の主要製品であるWarmboxの発売を準備しました(私たちは今日ライブです！😻)。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，你们好! 👋\n\n每天有51%的电子邮件被送入垃圾邮件。那你的呢？\n\n电子邮件的可送达性已经成为一个主要问题，因为一封没有到达收件箱的电子邮件\n抵达收件箱，就不会被任何人阅读。\n\n基本上，你的电子邮件送达率取决于3个关键因素。\n\n\n\n * 知名度的高低。",
+      "title": "我在两周内创建了一个电子邮件检查工具（Mailook），以帮助人们解决他们的电子邮件交付能力，并准备推出我在PH上的主要产品：Warmbox（我们今天已经上线！😻）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，你們好! 👋\n\n每天有51%的電子郵件被送入垃圾郵件。那你的呢？\n\n電子郵件的可送達性已經成爲一個主要問題，因爲一封沒有到達收件箱的電子郵件\n抵達收件箱，就不會被任何人閱讀。\n\n基本上，你的電子郵件送達率取決於3個關鍵因素。\n\n\n\n * 知名度的高低。",
+      "title": "我在兩週內創建了一個電子郵件檢查工具（Mailook），以幫助人們解決他們的電子郵件交付能力，並準備推出我在PH上的主要產品：Warmbox（我們今天已經上線！😻）。"
+    }
+  ],
+  "title": "I created an email checker tool in 2 weeks (Mailook) to help people to fix their email deliverability and prepare the launch of my main product on PH: Warmbox (we are live today! 😻)",
+  "created_utc": 1621564583,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hey there! 👋</p>\n\n<p>51% of emails sent are landing in spam everyday. What about yours?</p>\n\n<p>Email deliverability has become a major issue because an email that doesn&#39;t reach the inbox won&#39;t be read by anyone.</p>\n\n<p>In a basic way, your email deliverability relies on 3 key elements:</p>\n\n<p>&#x200B;</p>\n\n<ul>\n<li><strong>The reputation of the sender</strong> (including IP &amp; Domain Blacklisting, SPF, DKIM, DMARC, etc.)</li>\n<li><strong>The content of the emails</strong> (including Broken and short links, List Unsubscribe Header, etc.)</li>\n<li><strong>The activity of your Inbox</strong> (positive interactions, sending list, etc.)</li>\n</ul>\n\n<p>I wanted to share everything that I know of email deliverability, including practical guides and tips, so that anyone could improve his email marketing strategy.</p>\n\n<p>The Guide: <a href=\"https://www.warmbox.ai/blog/the-ultimate-email-deliverability-guide-2021\">https://www.warmbox.ai/blog/the-ultimate-email-deliverability-guide-2021</a></p>\n\n<p>By the way, I&#39;m really happy to announce to you that we&#39;re launching a new product around email deliverability: <a href=\"http://warmbox.ai/\"><strong>Warmbox.ai</strong></a>, the most advanced email warm-up tool that helps you to never land in spam. On ProductHunt, today! It integrates natively the Mailook feature for, so you can check your deliverability for free inside it!</p>\n\n<p>It could be awesome to have some support form you guys, if the product interests you, we are almost 1st Product of the day! 🙏</p>\n\n<p>👉 <a href=\"https://www.producthunt.com/posts/warmbox\">https://www.producthunt.com/posts/warmbox</a></p>\n\n<p>Cheers! 😍</p>\n</div><!-- SC_ON -->",
+  "score": 23,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/IDXDDO_nm28Dt1jp6jWOBoOtCzYg9MvEnrx9sID1NXg.jpg?auto=webp&s=aec60450d065f0aefe81e0896fda8afcf83a7447",
+          "width": 5328,
+          "height": 2798
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/IDXDDO_nm28Dt1jp6jWOBoOtCzYg9MvEnrx9sID1NXg.jpg?width=108&crop=smart&auto=webp&s=50df6d7ad127123bd58038f94e176c193bf9150c",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/IDXDDO_nm28Dt1jp6jWOBoOtCzYg9MvEnrx9sID1NXg.jpg?width=216&crop=smart&auto=webp&s=51a64ff041549d0e577f688a51a73af6b9f92395",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/IDXDDO_nm28Dt1jp6jWOBoOtCzYg9MvEnrx9sID1NXg.jpg?width=320&crop=smart&auto=webp&s=9637b0ba7b3ce9f55f6b75241bfad3da4639f016",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/IDXDDO_nm28Dt1jp6jWOBoOtCzYg9MvEnrx9sID1NXg.jpg?width=640&crop=smart&auto=webp&s=92166ecaf59d0d7b46a3425c60b622bbf2aafef8",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/IDXDDO_nm28Dt1jp6jWOBoOtCzYg9MvEnrx9sID1NXg.jpg?width=960&crop=smart&auto=webp&s=bb386c8936cbf1cad0fd7591274f52c5ad3b25ee",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/IDXDDO_nm28Dt1jp6jWOBoOtCzYg9MvEnrx9sID1NXg.jpg?width=1080&crop=smart&auto=webp&s=c779ca4279f9413b1995c14241c6eda731e42567",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "VNJgqh45XQ2iJdUSaisPzPl93YMQysYrN9XyDuYCj-M"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/nhellg/i_created_an_email_checker_tool_in_2_weeks/",
+  "subreddit": "SideProject",
+  "id": "nhellg",
+  "is_self": true,
+  "media": null,
+  "is_video": false
+}

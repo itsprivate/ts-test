@@ -1,0 +1,65 @@
+{
+  "the_new_excerpt": "",
+  "original_created_utc": 1623128295,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ナイブ・ブケレ大統領：「地方に住むサルバドール人がインターネットに接続できるように衛星インフラが整備され、接続性の悪い場所でもビットコインネットワークが利用できるようになります。ブロックストリームは、この国が世界のモデルとなるように、その技術で貢献します。\""
+    },
+    {
+      "locale": "zh",
+      "title": "Nayib Bukele总统：\"将建设卫星基础设施，使农村地区的萨尔瓦多人能够连接到互联网，并在连接不畅的地方连接比特币网络。Blockstream将以其技术做出贡献，使国家成为世界的典范\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Nayib Bukele總統：\"將建設衛星基礎設施，使農村地區的薩爾瓦多人能夠連接到互聯網，並在連接不暢的地方連接比特幣網絡。Blockstream將以其技術做出貢獻，使國家成爲世界的典範\"。"
+    }
+  ],
+  "title": "President Nayib Bukele: \"Satellite infrastructure will be built so that Salvadorans in rural areas can connect to the internet and the Bitcoin network in places where the connectivity is poor. Blockstream will contribute with its technology to make the nation a model for the world.\"",
+  "created_utc": 1623141118,
+  "selftext_html": null,
+  "score": 843,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/5PEz1d84a56k1S1fBtXGDQQdXlKtlo-LFm47wMWYsNk.jpg?auto=webp&s=0b62e0333a433b4b65cadac0a532251df237d06e",
+          "width": 140,
+          "height": 140
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/5PEz1d84a56k1S1fBtXGDQQdXlKtlo-LFm47wMWYsNk.jpg?width=108&crop=smart&auto=webp&s=705bee47874514fd41feadd840672f491cd42647",
+            "width": 108,
+            "height": 108
+          }
+        ],
+        "variants": {},
+        "id": "kRteODSilA1XxrTyvCBuDStHfyf1DgKHmxo7AFrwsqY"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/nuwrw1/president_nayib_bukele_satellite_infrastructure/",
+  "subreddit": "Bitcoin",
+  "id": "nuwrw1",
+  "is_self": false,
+  "media": {
+    "oembed": {
+      "provider_url": "https://twitter.com",
+      "url": "https://twitter.com/nayibbukele/status/1401955382533165062",
+      "html": "<blockquote class=\"twitter-video\"><p lang=\"es\" dir=\"ltr\">Se construirá una infraestructura satelital para que los salvadoreños 🇸🇻 en zonas rurales se conecten a Internet y a la red <a href=\"https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw\">#Bitcoin</a> en lugares donde la conectividad es deficiente.<a href=\"https://twitter.com/Blockstream?ref_src=twsrc%5Etfw\">@Blockstream</a> contribuirá con su tecnología para hacer de la nación un modelo para el mundo. 🌎 <a href=\"https://t.co/gLM4oked9C\">https://t.co/gLM4oked9C</a></p>&mdash; Nayib Bukele 🇸🇻 (@nayibbukele) <a href=\"https://twitter.com/nayibbukele/status/1401955382533165062?ref_src=twsrc%5Etfw\">June 7, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+      "author_name": "Nayib Bukele 🇸🇻",
+      "height": null,
+      "width": 350,
+      "version": "1.0",
+      "author_url": "https://twitter.com/nayibbukele",
+      "provider_name": "Twitter",
+      "cache_age": 3153600000,
+      "type": "rich"
+    },
+    "type": "twitter.com"
+  },
+  "is_video": false,
+  "source_updated_at": 1623404878618
+}

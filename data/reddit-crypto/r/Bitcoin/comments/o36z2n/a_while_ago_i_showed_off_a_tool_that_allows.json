@@ -1,0 +1,64 @@
+{
+  "the_new_excerpt": "",
+  "original_created_utc": 1624072846,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "少し前に、TwitchのストリーマーがBitcoin + Lightningの寄付をアラートに組み込むことができるツールを紹介しました。現在、このツールをオープンソースにしています。貢献してください。)"
+    },
+    {
+      "locale": "zh",
+      "title": "不久前，我展示了一个工具，允许Twitch流媒体人将比特币+闪电捐款整合到他们的提醒中。我现在把它开源了。请做出贡献 :)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不久前，我展示了一個工具，允許Twitch流媒體人將比特幣+閃電捐款整合到他們的提醒中。我現在把它開源了。請做出貢獻 :)"
+    }
+  ],
+  "title": "A while ago, I showed off a tool that allows Twitch streamers to integrate Bitcoin + Lightning donations into their alerts. I am now making it open-source. Please contribute :)",
+  "created_utc": 1624102374,
+  "selftext_html": null,
+  "score": 169,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/BicDc-BlVcWptr7tGkhRxeod3RryLVt2spxl1LtwBLM.jpg?auto=webp&s=49fa7cc95ffdabc593cf99a00b2f97a3209296e8",
+          "width": 140,
+          "height": 73
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/BicDc-BlVcWptr7tGkhRxeod3RryLVt2spxl1LtwBLM.jpg?width=108&crop=smart&auto=webp&s=ab743ef03b2a65630227bf4c8e7f9101dbd45ebb",
+            "width": 108,
+            "height": 56
+          }
+        ],
+        "variants": {},
+        "id": "nGvX4CZedjw_3ucunA7oz8FrOTaMWEcAtWeqxbSeiW0"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/o36z2n/a_while_ago_i_showed_off_a_tool_that_allows/",
+  "subreddit": "Bitcoin",
+  "id": "o36z2n",
+  "is_self": false,
+  "media": {
+    "type": "twitter.com",
+    "oembed": {
+      "provider_url": "https://twitter.com",
+      "version": "1.0",
+      "url": "https://twitter.com/Fittiboy/status/1406088934388551682",
+      "author_name": "Fitti🕴💫",
+      "height": null,
+      "width": 350,
+      "html": "<blockquote class=\"twitter-video\"><p lang=\"en\" dir=\"ltr\">I&#39;ve decided on how to make this powerful <a href=\"https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw\">#Bitcoin</a> tool available to others!<br>Trying to keep it simple, but this will still require some work to set up for streamers.<br><br>Want to help make this as easy as possible? Please contribute! <a href=\"https://twitter.com/hashtag/LightningNetwork?src=hash&amp;ref_src=twsrc%5Etfw\">#LightningNetwork</a> <a href=\"https://t.co/S2EHVedUI7\">https://t.co/S2EHVedUI7</a> <a href=\"https://t.co/ekRyQFhJPL\">https://t.co/ekRyQFhJPL</a></p>&mdash; Fitti🕴💫 (@Fittiboy) <a href=\"https://twitter.com/Fittiboy/status/1406088934388551682?ref_src=twsrc%5Etfw\">June 19, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+      "author_url": "https://twitter.com/Fittiboy",
+      "provider_name": "Twitter",
+      "cache_age": 3153600000,
+      "type": "rich"
+    }
+  },
+  "is_video": false
+}

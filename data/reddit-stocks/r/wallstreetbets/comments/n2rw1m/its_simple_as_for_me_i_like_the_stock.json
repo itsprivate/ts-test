@@ -1,0 +1,42 @@
+{
+  "the_new_excerpt": "",
+  "original_created_utc": 1619904334,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "単純な話ですよね。私はというと、株が好きなんです💎💮。"
+    },
+    {
+      "locale": "zh",
+      "title": "这很简单。至于我，我喜欢股票💎🤲🦍。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這很簡單。至於我，我喜歡股票💎🤲🦍。"
+    }
+  ],
+  "title": "It’s simple. As for me, I like the stock💎🤲🦍",
+  "created_utc": 1619908387,
+  "selftext_html": null,
+  "score": 27186,
+  "permalink": "/r/wallstreetbets/comments/n2rw1m/its_simple_as_for_me_i_like_the_stock/",
+  "subreddit": "wallstreetbets",
+  "id": "n2rw1m",
+  "is_self": false,
+  "media": {
+    "reddit_video": {
+      "bitrate_kbps": 600,
+      "fallback_url": "https://v.redd.it/5bfm8ziltkw61/DASH_240.mp4?source=fallback",
+      "height": 137,
+      "width": 426,
+      "scrubber_media_url": "https://v.redd.it/5bfm8ziltkw61/DASH_96.mp4",
+      "dash_url": "https://v.redd.it/5bfm8ziltkw61/DASHPlaylist.mpd?a=1622500387%2CMmJjNTFlNjJiNzIwYjI4NDk1NWFiYjY3ODlhYjMwY2JmZDc1ZGJiZmM3MGU4ZjQ3NzMyMmIyNjMxMmI3NzlhMg%3D%3D&v=1&f=sd",
+      "duration": 132,
+      "hls_url": "https://v.redd.it/5bfm8ziltkw61/HLSPlaylist.m3u8?a=1622500387%2CZDY0ZmU3Yzc3ZTUwZjA0OTU0NGUyMzhiNmU4NjkzNTdkNzRkODMwNGUwZDI0ODcxODY3ZWU3YTZhZjA0MDQ2OA%3D%3D&v=1&f=sd",
+      "is_gif": false,
+      "transcoding_status": "completed"
+    }
+  },
+  "is_video": true,
+  "source_updated_at": 1620380970814
+}

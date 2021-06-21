@@ -1,0 +1,26 @@
+{
+  "the_new_excerpt": "Why YSK:\n\nThere's a simple trick you can use on your Google searches to find all the\nopenly available spreadsheets out there. The only thing you need to do is write\nthe following syntax in your google search:\n\n * site:docs.google.com/spreadsheets intitle:[anything you want]\n\nHowever, there are a…",
+  "original_created_utc": 1615919206,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么是YSK。\n\n有一个简单的技巧，你可以用在你的谷歌搜索中找到所有的\n公开的电子表格。你唯一需要做的就是写\n以下语法在你的谷歌搜索。\n\n * site:docs.google.com/spreadsheets intitle:[任何你想要的东西]\n\n然而，有一...",
+      "title": "YSK使用这个谷歌搜索技巧，找到任何你想要的数据的开放电子表格。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼是YSK。\n\n有一個簡單的技巧，你可以用在你的谷歌搜索中找到所有的\n公開的電子表格。你唯一需要做的就是寫\n以下語法在你的谷歌搜索。\n\n * site:docs.google.com/spreadsheets intitle:[任何你想要的東西]\n\n然而，有一...",
+      "title": "YSK使用這個谷歌搜索技巧，找到任何你想要的數據的開放電子表格。"
+    }
+  ],
+  "title": "YSK to use this Google search trick to find open spreadsheets with data on anything you want",
+  "created_utc": 1615943802,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why YSK:</p>\n\n<p>There&#39;s a simple trick you can use on your Google searches to find all the openly available spreadsheets out there. <strong>The only thing you need to do is write the following syntax in your google search:</strong></p>\n\n<ul>\n<li><code>site:docs.google.com/spreadsheets intitle:[anything you want]</code></li>\n</ul>\n\n<p>However, there are a bunch of other cases where you can leverage these simple google searches to boost your productivity when trying to find resources online.</p>\n\n<p>After mastering this for a while, <strong>I compiled a brief guide with several other examples of google searches that can be useful for anyone.</strong> You can also find a simple explanation of the operators I found most useful for daily Google searches:</p>\n\n<ul>\n<li><a href=\"https://blog.amplemarket.com/mastering-google-searches-for-b2b-prospecting/\">Feel free to take a look</a></li>\n</ul>\n\n<p>Happy Google searches everyone! 🤓</p>\n</div><!-- SC_ON -->",
+  "score": 105,
+  "permalink": "/r/YouShouldKnow/comments/m6fr62/ysk_to_use_this_google_search_trick_to_find_open/",
+  "subreddit": "YouShouldKnow",
+  "id": "m6fr62",
+  "is_self": true,
+  "media": null,
+  "is_video": false
+}

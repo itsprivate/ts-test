@@ -1,0 +1,27 @@
+{
+  "the_new_excerpt": "ABOUT STAKING\n\nTo be able to comprehend staking, you first need to know about Proof-of-Stake\nand Proof-of-Work. Here is a quick summary.\n\n * ⛏ Proof-of-Work (PoW) is a consensus mechanism used to decide which\n   blockchain network users are eligible to create a new block. For an entity to\n   be…",
+  "original_created_utc": 1614186438,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "关于STAKING\n\n要想了解赌注，首先要了解 \"赌注证明\"。\n和工作证明。以下是一个简短的总结。\n\n * 工作证明(PoW)是一种共识机制，用于决定哪种类型的工作证明。\n   区块链网络用户有资格创建一个新的区块。对于一个实体来说\n   是...",
+      "title": "什么是打桩：初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "關於STAKING\n\n要想了解賭注，首先要了解 \"賭注證明\"。\n和工作證明。以下是一個簡短的總結。\n\n * 工作證明(PoW)是一種共識機制，用於決定哪種類型的工作證明。\n   區塊鏈網絡用戶有資格創建一個新的區塊。對於一個實體來說\n   是...",
+      "title": "什麼是打樁：初學者指南"
+    }
+  ],
+  "title": "What is Staking? : A Guide for beginners",
+  "created_utc": 1614202226,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h1>About Staking</h1>\n\n<p>To be able to comprehend staking, you first need to know about Proof-of-Stake and Proof-of-Work. Here is a quick summary.</p>\n\n<ul>\n<li><strong>⛏ Proof-of-Work</strong> (PoW) is a consensus mechanism used to decide which blockchain network users are eligible to create a new block. For an entity to be selected and able to choose the next block, they’ll have to solve a particular mathematical problem.</li>\n<li><strong>💼 Proof-of-Stake</strong> (PoS) is another consensus mechanism to determine which users get to create new blocks on the blockchain. With this method, you don’t need to solve a mathematical problem, and thus, you’ll need less computing power and energy. New block creators are selected by the amount of wealth they’ve locked-up in the network.</li>\n</ul>\n\n<p>An often asked question is if PoS is more secure then PoW. Even though every blockchain network is different and has its level of risk, a common chance with a blockchain is the 51% attack; this poses a hypothetical situation in which miners with more than 50% of the computational power of PoW blockchains would permanently own the blockchain. And thus be able to change transactions and have the possibility to double-spend cryptocurrencies. Now, that’s not something anyone would want to happen since this destroys the fundamentals of the blockchain.</p>\n\n<p>For PoW systems, for such an attack to occur, miners would need to have more than 50% of computational power (and a lot of hardware), so we could say that this is almost impossible. For a 51% attack to happen on PoS systems, someone would need to own over 50% of all available tokens. With most systems having large market capitalizations in the millions of dollars, we could also say that this is near to impossible. Furthermore, buying assets from a network inflates the price of the token. If you’d to try and buy half a network worth of symbols, it would eventually just become too expensive. Plus, once you’d own most of the network, you don’t have the interest to attack it since your ownership would lose value as well. And so, in this aspect, PoS could be considered more secure.</p>\n\n<p>&#x200B;</p>\n\n<h1>Benefits of Staking</h1>\n\n<p>So, why would you stake your crypto assets? Staking cryptocurrencies offers several advantages. First, staking your assets through PoS avoids being diluted by inflation. Nonetheless, the value of your staked tokens can be affected by fluctuations in the currency price.</p>\n\n<p>Furthermore, a significant benefit of staking digital assets is that it doesn’t require expensive hardware, which makes it more accessible to a broad public. Thirdly, staking offers a quasi-guaranteed return and a predictable source of income when measured in tokens. Also, it is more environmentally friendly to invest in PoS because it doesn’t require high amounts of energy, like with mining in PoW networks.</p>\n\n<p>&#x200B;</p>\n\n<h1>Risks of Staking</h1>\n\n<p>As with any investment, staking cryptocurrencies isn’t risk-free. So, let’s go over the risks involved.</p>\n\n<p>First, there is the possibility of Slashing; this means your validator or baker can receive punishment for a fault conducted. This mechanism is designed to discourage abnormal behavior. The second, and probably most crucial risk, is crypto volatility, which means that some cryptocurrencies exposed to rapid and unexpected change. If it’s for the better, these changes can be helpful and very profitable. However, the downside is that it can depreciate the price of your tokens too much, leaving you empty-handed.</p>\n\n<p>&#x200B;</p>\n\n<h1>Conclusion</h1>\n\n<p>There are many reasons why it would be attractive to start staking cryptocurrencies. However, before you get started, do your research. It will guarantee that you find the right currencies, wallet, and operator for your needs. Always search for 3rd parties and reviews when researching a cryptocurrency or operator. I hope this guide has made the concept of staking more clear for you, and I wish you happy staking!</p>\n</div><!-- SC_ON -->",
+  "score": 547,
+  "permalink": "/r/CryptoCurrency/comments/lrhrz6/what_is_staking_a_guide_for_beginners/",
+  "subreddit": "CryptoCurrency",
+  "id": "lrhrz6",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1614332880691
+}

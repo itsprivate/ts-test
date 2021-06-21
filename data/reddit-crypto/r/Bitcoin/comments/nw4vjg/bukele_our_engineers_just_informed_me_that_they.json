@@ -1,0 +1,73 @@
+{
+  "the_new_excerpt": "",
+  "original_created_utc": 1623268824,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[Bukele] 私たちのエンジニアが、新しい井戸を掘ったと知らせてくれました。それは、私たちの火山から約95MWの100%クリーンで排出物のない地熱エネルギーを供給するものです🌋その周りに完全な#ビットコインマイニングハブの設計を始めています。井戸から出ているのは純粋な水蒸気です🇸🇻"
+    },
+    {
+      "locale": "zh",
+      "title": "[Bukele] 我们的工程师刚刚告诉我，他们挖了一口新井，将从我们的火山中提供约95MW的100%清洁、0排放的地热能源 🌋 开始围绕它设计一个完整的#比特币采矿中心。你看到从井里出来的是纯水蒸气 🇸🇻"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[Bukele] 我們的工程師剛剛告訴我，他們挖了一口新井，將從我們的火山中提供約95MW的100%清潔、0排放的地熱能源 🌋 開始圍繞它設計一個完整的#比特幣採礦中心。你看到從井裏出來的是純水蒸氣 🇸🇻"
+    }
+  ],
+  "title": "[Bukele] Our engineers just informed me that they dug a new well, that will provide approximately 95MW of 100% clean, 0 emissions geothermal energy from our volcanos 🌋 Starting to design a full #Bitcoin mining hub around it. What you see coming out of the well is pure water vapor 🇸🇻",
+  "created_utc": 1623278874,
+  "selftext_html": null,
+  "score": 1372,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/8si5IXy0r4ucWcArtDxojHD4HGVx7t8w0Nbg2FozY8s.png?format=pjpg&auto=webp&s=b29655e6e47d3e83c4723aec939212c19807497b",
+          "width": 480,
+          "height": 848
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/8si5IXy0r4ucWcArtDxojHD4HGVx7t8w0Nbg2FozY8s.png?width=108&crop=smart&format=pjpg&auto=webp&s=090c376b7a8d36b5aa1ace7564c0fef3205432fa",
+            "width": 108,
+            "height": 190
+          },
+          {
+            "url": "https://external-preview.redd.it/8si5IXy0r4ucWcArtDxojHD4HGVx7t8w0Nbg2FozY8s.png?width=216&crop=smart&format=pjpg&auto=webp&s=aea90eb8c4a5919fac655b7ade795415f8fca537",
+            "width": 216,
+            "height": 381
+          },
+          {
+            "url": "https://external-preview.redd.it/8si5IXy0r4ucWcArtDxojHD4HGVx7t8w0Nbg2FozY8s.png?width=320&crop=smart&format=pjpg&auto=webp&s=3d4ab154acf2885a5b7163109cac92e749a61901",
+            "width": 320,
+            "height": 565
+          }
+        ],
+        "variants": {},
+        "id": "k5rHsQ71bDOFh1s6FVrg6Om8v6MyWNFPjaIEmHj4cfU"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/nw4vjg/bukele_our_engineers_just_informed_me_that_they/",
+  "subreddit": "Bitcoin",
+  "id": "nw4vjg",
+  "is_self": false,
+  "media": {
+    "reddit_video": {
+      "bitrate_kbps": 2400,
+      "fallback_url": "https://v.redd.it/fa3fs86tpa471/DASH_720.mp4?source=fallback",
+      "height": 720,
+      "width": 407,
+      "scrubber_media_url": "https://v.redd.it/fa3fs86tpa471/DASH_96.mp4",
+      "dash_url": "https://v.redd.it/fa3fs86tpa471/DASHPlaylist.mpd?a=1625870873%2COTUzMmYyZTViMmIwNThkOGI2YjNmYmIwOTcxODY0MDRiZTE2ZjkyZWJjNTYyMTU3NjgyMzFkMTc1OTg0NDgxNQ%3D%3D&v=1&f=sd",
+      "duration": 22,
+      "hls_url": "https://v.redd.it/fa3fs86tpa471/HLSPlaylist.m3u8?a=1625870873%2CNDQ0NTIxZGZhNzQ4YzIwZDE3NTNiMzVhZTgxOTYyN2Y4NDM1YmQ1Y2Y1N2MzOGIxZjZjYzY4MjY2NGQ1YjU0Nw%3D%3D&v=1&f=sd",
+      "is_gif": false,
+      "transcoding_status": "completed"
+    }
+  },
+  "is_video": true,
+  "source_updated_at": 1623404879780
+}
